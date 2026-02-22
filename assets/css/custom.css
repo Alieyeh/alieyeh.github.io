@@ -1,0 +1,11 @@
+/* Increase spacing between the left sidebar (author profile) and main content */
+@media (min-width: 64em) {
+  .sidebar {
+    padding-right: 2.0rem;  /* increase if you want more */
+  }
+  .archive,
+  .page,
+  .page__content {
+    padding-left: 1.5rem;   /* increase if you want more */
+  }
+}
