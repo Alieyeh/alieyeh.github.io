@@ -7,6 +7,8 @@ venue: "Alzheimer's Research UK Scientific Networking"
 date: 2025-11-18
 location: "United Kingdom"
 ---
+**Poster PDF:** [Download](/files/posters/PosterPRSPipelineDPUK.pdf)
+---
 
 **First Author**
 
