@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Alieyeh Sarabandi Moghaddam"
-description              : &description "Healthcare & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "My portfolio page."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alieyeh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ repository               : "Alieyeh/alieyeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp2.jpeg"
+  avatar           : "pfp3.png"
   name             : "Alieyeh Sarabandi"
   pronouns         : # example: "she/her"  
-  bio              : " Email is the best way to reach me. I’m happy to share additional details (code samples, slides, references) and am open to collaboration."
+  bio              : "Health & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools. Email is the best way to reach me. I’m happy to share additional details (code samples, slides, references) and am open to collaboration."
   location         : "Wales, UK"
-  employer         : "Dementias Platform UK (DPUK) - Swansea University"
+  employer         : "Swansea University"
   uri              : # URL
   email            : "Alieyeh@gmail.com" 
 
