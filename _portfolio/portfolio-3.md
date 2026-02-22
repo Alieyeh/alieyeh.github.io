@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NLP-Enabled Metadata Discovery (In Progress)"
+excerpt: "Developing a metadata discovery platform using structured curation and text-processing/NLP for automated tagging and improved dataset searchability; supervising an intern."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Goal:** Improve discoverability and reuse of healthcare/genomics datasets by transforming inconsistent free-text descriptions into structured, searchable metadata.
+
+**What I’m building:**
+- A metadata model that supports consistent tagging and cross-team discovery  
+- Text-processing/NLP components (e.g., keyword/entity extraction or semantic similarity) to support automated tagging and search  
+- Practical tooling and documentation for maintainability and adoption  
+- Milestone-based delivery via intern supervision
+
+**Impact (expected):** Faster dataset discovery, reduced duplicated effort, and improved cross-team accessibility to curated data resources.
+
+**Engineering considerations:** RESTful APIs · clear code architecture · ER diagrams for database design · unit and load testing.
