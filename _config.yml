@@ -23,7 +23,7 @@ repository               : "Alieyeh/alieyeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp1.jpeg"
+  avatar           : "pfp1.jpg"
   name             : "Alieyeh Sarabandi"
   pronouns         : # example: "she/her"  
   bio              : "Health & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools. Email is the best way to reach me. Open to collaboration."
