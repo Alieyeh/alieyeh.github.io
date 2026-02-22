@@ -93,6 +93,11 @@ publication_category:
   articles:
     title: 'Editorial & Practice Articles'
 
+
+slides: "/files/posters/PosterPRSPipelineDPUK.pdf"
+slides: "/files/posters/ammar_genomics_poster.pdf"
+slides: "/files/posters/ARUKSubtypingPoster.pdf"
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
