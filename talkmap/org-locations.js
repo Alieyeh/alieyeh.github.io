@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A Unified Pipeline for Calculating Polygenic Risk Scores for Dementia and Psychiatric Disorders in DPUK<br />Alzheimer's Research UK Scientific Networking; United Kingdom",
+    54.7023545,
+    -3.2765753
   ],
   [
     "Bringing Genetics Into Life: DPUK Genomics Pipeline Update<br />Dementia Platform UK Translation Conference; United Kingdom",
