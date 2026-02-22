@@ -23,10 +23,10 @@ repository               : "Alieyeh/alieyeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp3.png"
+  avatar           : "pfp1.jpeg"
   name             : "Alieyeh Sarabandi"
   pronouns         : # example: "she/her"  
-  bio              : "Health & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools. Email is the best way to reach me. I’m happy to share additional details (code samples, slides, references) and am open to collaboration."
+  bio              : "Health & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools. Email is the best way to reach me. Open to collaboration."
   location         : "Wales, UK"
   employer         : "Swansea University"
   uri              : # URL
