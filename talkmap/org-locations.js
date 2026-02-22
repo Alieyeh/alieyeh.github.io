@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment<br />International Population Data Linkage Network (IPDLN) Conference; To be confirmed",
+    15.1267151,
+    105.6364068
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Precision Subtyping of Dementia Through Multi-Omic Integration<br />Alzheimer's Research UK Conference, Manchester; Manchester, UK",
+    53.4794892,
+    -2.2451148
   ]
 ];
