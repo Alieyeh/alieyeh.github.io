@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Bringing Genetics Into Life: DPUK Genomics Pipeline Update<br />Dementia Platform UK Translation Conference; United Kingdom",
+    54.7023545,
+    -3.2765753
   ],
   [
     "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment<br />International Population Data Linkage Network (IPDLN) Conference; To be confirmed",
