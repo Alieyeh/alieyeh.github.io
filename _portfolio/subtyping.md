@@ -18,6 +18,6 @@ Subtype characterisation, progression prediction (e.g., for MCI), and clinically
 
 **Expected Impact:** Supports generation of testable hypotheses and improves understanding of molecular heterogeneity in dementia-related datasets and disease pathways.
 
-**Tech & methods:** Python · scikit-learn · pandas/numpy · Matplotlib/Plotly · Multi-omic integration · unsupervised learning · batch correction · validation framing · risk management planning for complex data
+**Tags:** Python · scikit-learn · pandas/numpy · Matplotlib/Plotly · Multi-omic integration · unsupervised learning · batch correction · validation framing · risk management planning for complex data
 
 
