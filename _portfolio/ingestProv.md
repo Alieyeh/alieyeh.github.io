@@ -3,7 +3,7 @@ title: "Secure Genomics Ingest & Provisioning Framework (TRE)"
 excerpt: "End-to-end framework for onboarding, QC, metadata standardisation and secure provisioning of cohort-scale genomics data in a Trusted Research Environment."
 collection: portfolio
 ---
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/datacheckgenome.jpg'>"
 ---
 
 **Problem:** Cohort-scale genomics datasets require rigorous QC, consistent structure and governed access to be usable across teams within a Trusted Research Environment.
@@ -25,4 +25,4 @@ These tools were designed for internal use and are not publicly available.
 
 **Impact:** Reduced manual onboarding effort, improved reproducibility and analysis readiness, and accelerated time-to-analysis for downstream research teams.
 
-**Tech:** Python · Linux · Streamlit · MinIO · Bash Scripting · genomics tooling (e.g., PLINK/bcftools/QCtool)
+**Tags:** Python · Linux · Streamlit · MinIO · Bash Scripting · genomics tooling (e.g., PLINK/bcftools/QCtool)
