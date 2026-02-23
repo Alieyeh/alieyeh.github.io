@@ -3,7 +3,9 @@ title: "Safe AI in Sensitive Health Data: Risk Evaluation, Attack Simulation, an
 excerpt: "Contributed to a DARE UK initiative developing guidance and tools for safe AI development/release from Trusted Research Environments (TREs)."
 collection: portfolio
 ---
-
+---
+<br/><img src='/images/aisafe.jpg'>"
+---
 ## Overview
 I contributed to a DARE UK funded initiative focused on the risks of AI development and model release in sensitive healthcare data, and the practical role TREs can play in enabling useful AI while protecting privacy. :contentReference[oaicite:8]{index=8}
 
@@ -15,6 +17,8 @@ I contributed to a DARE UK funded initiative focused on the risks of AI developm
 
 ## Why it matters (impact)
 This kind of work builds institutional trust: it gives data providers clearer ways to reason about risk, helps researchers adopt privacy-preserving practices, and supports responsible AI pathways without blocking valuable science. :contentReference[oaicite:13]{index=13}
+---
+<br/><img src='/images/safeai.jpg'>"
+---
 
-## Tech & methods
-AI-SDC, Python, Matplotlib, Privacy threat modelling, evaluation framing, attack-simulation mindset, practical governance design for TREs.
+**Tags**: AI-SDC · Python · Matplotlib · Privacy threat modelling · evaluation framing · attack-simulation · practical governance design for TREs · encryption · synthetic data
