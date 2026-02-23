@@ -3,6 +3,8 @@ title: "PRS Pipeline Acceleration on SLURM HPC"
 excerpt: "Re-architected a polygenic risk score workflow for distributed execution and improved resource utilisation, reducing runtime and improving usability for non-expert users."
 collection: portfolio
 ---
+<br/><img src='/images/prsflow.jpg'>"
+---
 
 **Challenge:** A functional PRS workflow was slow and underutilised available compute resources, limiting uptake by researchers with varying technical expertise.
 
