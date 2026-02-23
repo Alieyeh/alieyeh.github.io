@@ -1,5 +1,5 @@
 ---
-title: "Genomic Data Resources within the Dementias Platform UK: Availability, Structure and Research Applications"
+title: "Navigating the Genomic Data Landscape in Dementias Platform UK: A Resource Profile""
 collection: publications
 category: manuscripts
 permalink: /publication/dpuk-genomics-resource
@@ -10,11 +10,17 @@ venue: "Manuscript in preparation"
 
 **Status:** Resource manuscript in preparation.
 
-This paper provides a structured overview of genomics data available within the Dementias Platform UK Trusted Research Environment, including:
+Resource profile manuscript in preparation for the *International Journal of Population Data Science*. This paper provides a structured overview of genomics data available within the Dementias Platform UK Trusted Research Environment, including:
 
-- Cohort coverage and genomic modalities (WGS, array, methylation, summary statistics)
-- Metadata harmonisation strategies
+- Available genomics datasets within DPUK
+- Cohort characteristics, coverage and genomic modalities (WGS, array, methylation, summary statistics)
+- Data modalities
 - Data readiness levels
-- Governance and access considerations
+- Governance structures
+- Harmonisation considerations and strategies
 
-The manuscript aims to reduce feasibility barriers for researchers and improve transparency in large-scale dementia genomics research infrastructure.
+
+The manuscript is designed to support transparent and structured cohort selection for dementia genomics research.
+
+Tags: Governance · Data discovery  · Cohort selection · Statistical summary · Data exploration
+
