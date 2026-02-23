@@ -14,4 +14,4 @@ collection: portfolio
 
 **Impact:** Reduced runtime for large PRS analyses from days/weeks to hours, improving accessibility and supporting faster dementia research workflows.
 
-**Tech:** SLURM · Linux · workflow orchestration · containers · Python/R · Nextflow · PLINK · Minimac3
+**Tags:** SLURM · Linux · workflow orchestration · containers · Python/R · Nextflow · PLINK · Minimac3
