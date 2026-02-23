@@ -18,7 +18,7 @@ The package focuses on:
 
 The source code is publicly available on GitHub and distributed via PyPI.
 
-- GitHub: https://github.com/Alieyeh/HYPEHD
+- GitHub: https://github.com/Alieyeh/hypehd
 - PyPI: https://pypi.org/project/hypehd/
 
 Tags: Python · seaborn · scipy · scikit-learn · matplotlib · lifelines
