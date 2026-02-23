@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Genomic Data Landscape in Dementias Platform UK: A Resource Profile""
+title: "Navigating the Genomic Data Landscape in Dementias Platform UK: A Resource Profile"
 collection: publications
 category: manuscripts
 permalink: /publication/dpuk-genomics-resource
