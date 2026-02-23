@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/disease-symptom-network
 excerpt: "Probabilistic modelling of disease risk using structured symptom–disease relationships."
 ---
-<br/><img src='/images/net.jpg'>"
+<br/><img src='/images/net.png'>"
 ---
 This project focused on modelling disease risk through structured symptom–disease networks, combining graph-based representations with probabilistic prediction approaches.
 
