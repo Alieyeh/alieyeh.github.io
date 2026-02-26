@@ -2,7 +2,7 @@
 title: "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment"
 collection: talks
 type: "Conference Presentation (Poster)"
-permalink: /talk/2026-ipdln
+permalink: /talk/2026-ipdln-genomics
 venue: "International Population Data Linkage Network (IPDLN) Conference"
 date: 2026-09-01
 location: "To be confirmed"
