@@ -13,25 +13,25 @@ Reproducible Workflows · Secure Research Infrastructure · Applied Machine Lear
 
 ---
 
-I build governance-aware data systems and reproducible analytical workflows that help biomedical researchers move from complex cohort data to reliable, usable outputs. My work sits at the intersection of **genomics**, **secure research computing (TREs)**, and **practical data science**—with an emphasis on scalable execution, clarity, and real-world adoption.
+I build governance-aware data systems and reproducible analytical workflows that help biomedical researchers move from complex cohort data to reliable, usable outputs. My work sits at the intersection of **genomics**, **secure research computing**, and **practical data science**, with an emphasis on scalable execution, clarity, and real-world adoption.
 
 **Current focus:**
 - **Reproducible Workflow Engineering**  
   Nextflow pipelines, SLURM HPC optimisation, containerisation (Singularity/Docker), scalable execution design.
 
 - **Secure Research Data Infrastructure**  
-  Governance-aware ingest pipelines, metadata standardisation, structured data provisioning within TRE environments.
+  Governance-aware ingest pipelines, metadata standardisation, NLP enabled PII checking tool, structured data provisioning within TRE environments.
 
 - **Applied Health & Genomics Data Science**  
-  Multi-omics processing, statistical genetics, semi-supervised learning, interpretable modelling.
+  Multi-omics processing, statistical genetics, semi-supervised learning, interpretable modelling, omic-data exploration and visualization tool.
 
 - **Practical Tool Development**  
-  Interactive dashboards, metadata discovery systems, automation and data quality tooling.
+  Interactive dashboards, data and metadata discovery systems, automation and data quality tooling, file/folder monitoring scripts.
   
 - **policy Design**
-  Contributing to policy-oriented work on **safe AI in sensitive healthcare data**
+  Contributing to policy-oriented work on **safe AI in sensitive healthcare data**, 
+  Contributing to data/output disclosiveness standards for sequencing and genotyping in TREs.
   
-
 
 ---
 
