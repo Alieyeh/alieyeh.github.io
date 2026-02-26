@@ -7,6 +7,6 @@ venue: "Dementia Platform UK Translation Conference"
 date: 2025-03-01
 location: "United Kingdom"
 ---
-**Poster PDF:** [Download](/files/posters/ammar_genomics_poster.pdf)
----
+*PDF: [Open](/files/posters/ammar_genomics_poster.pdf)*
+
 Co-author presentation describing updates to the DPUK genomics pipeline, including improvements to Polygenic Risk Score (PRS) workflows and enhanced accessibility for researchers working within the Trusted Research Environment.
