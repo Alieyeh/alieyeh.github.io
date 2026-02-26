@@ -7,7 +7,7 @@ venue: "Alzheimer's Research UK Conference, Manchester"
 date: 2025-11-01
 location: "Manchester, UK"
 ---
-PDF: [Open](/files/posters/ARUKSubtypingPoster.pdf)
+*PDF: [Open](/files/posters/ARUKSubtypingPoster.pdf)*
 
 **First Author**
 
