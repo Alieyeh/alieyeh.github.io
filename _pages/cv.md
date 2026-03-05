@@ -98,7 +98,7 @@ Technical Expertise
 
 **Workflow & Infrastructure**
 - Linux environments, HPC (SLURM), containerisation (Singularity/Docker)
-- Reproducible pipeline design (Snakemake, Nextflow-style orchestration)
+- Reproducible pipeline design (n8n, Snakemake, Nextflow-style orchestration)
 - Structured data ingest, metadata standardisation, QC automation
 - Secure research computing and governed data access frameworks
 
@@ -117,7 +117,7 @@ Technical Expertise
 **Software & Data Engineering**
 - Python (pandas, numpy, scikit-learn, PyTorch)
 - R for statistical genetics workflows
-- SQL and relational database design (ER modelling)
+- SQL and relational database design (ER modelling, PostgreSQL schematics)
 - RESTful design principles
 - Unit testing and performance-aware system design
 
