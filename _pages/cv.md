@@ -28,12 +28,15 @@ Dementias Platform UK (DPUK), Swansea University
 - Contributed to the design and implementation of a scalable genomics ingest and provisioning framework within a national dementia Trusted Research Environment.
 - Developed metadata-driven discovery tools to standardise cohort description and improve cross-dataset comparability.
 - Implemented structured QC and privacy screening procedures to support responsible onboarding of multi-modal genomic datasets.
+- Co-leading the development of automated NLP tool for the detection of Personal Identifiable Information (PII) in cohort data.
+- Employed database management and data visualization techniques, including updating and maintaining powerbi and rshiny dashboard, for the great minds feasibility tool.
 - Designed governed data provisioning workflows aligned with Five Safes principles.
 
 **Workflow Engineering & HPC Optimisation**
 - Developed and maintained reproducible genomics workflows using Snakemake/Nextflow-style orchestration.
 - Optimised Polygenic Risk Score (PRS) pipeline execution on SLURM-based HPC systems, reducing runtime and improving accessibility for non-specialist researchers.
 - Implemented containerised execution environments (Singularity/Docker) to ensure cross-platform reproducibility.
+- Implemented automated weekly integrity monitoring n8n workflow to detect unauthorised file modifications or version drift.
 
 **Applied Genomics & Machine Learning**
 - Performed region-based association analyses and statistical genetics workflows on large-scale cohorts (e.g., UK Biobank and dementia-focused datasets).
