@@ -15,13 +15,13 @@ main:
     url: /talks/       
     
   - title: "Research"
-    url: /Research/
+    url: /research/
         
   - title: "Infrastructure"
-    url: /Infrastructure/
+    url: /infrastructure/
 
   - title: "Software"
-    url: /Software/
+    url: /software/
     
   - title: "CV"
     url: /cv/
