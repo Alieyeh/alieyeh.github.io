@@ -1,6 +1,7 @@
 ---
 title: "Research Data Integrity Monitoring System"
 collection: portfolio
+category: infrastructure
 permalink: /portfolio/file-integrity-monitoring/
 excerpt: "Automated monitoring system for detecting file deletion, rollback and corruption events in large research storage systems."
 ---
