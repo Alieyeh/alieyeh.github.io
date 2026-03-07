@@ -2,7 +2,7 @@
 title: "HYPEHD: Python Package for Genetic Analysis"
 collection: portfolio
 category: software
-permalink: /portfolio/hypehd
+permalink: /software/hypehd
 excerpt: "Public Python package supporting structured genetic analysis workflows."
 ---
 
