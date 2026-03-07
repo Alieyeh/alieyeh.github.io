@@ -2,7 +2,7 @@
 title: "Secure Genomics Ingest & Provisioning Framework (TRE)"
 category: infrastructure
 excerpt: "End-to-end framework for onboarding, QC, metadata standardisation and secure provisioning of cohort-scale genomics data in a Trusted Research Environment."
-permalink: /infrastructure/ingest_and_provisioning/
+permalink: /infrastructure/ingest-and-provisioning
 collection: portfolio
 ---
 <br/><img src='/images/datacheckgenome.jpg'>"
