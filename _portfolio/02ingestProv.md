@@ -1,5 +1,6 @@
 ---
 title: "Secure Genomics Ingest & Provisioning Framework (TRE)"
+category: infrastructure
 excerpt: "End-to-end framework for onboarding, QC, metadata standardisation and secure provisioning of cohort-scale genomics data in a Trusted Research Environment."
 collection: portfolio
 ---
