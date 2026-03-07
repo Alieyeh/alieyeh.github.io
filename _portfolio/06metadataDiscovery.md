@@ -1,7 +1,8 @@
 ---
 title: "Unified Omics Metadata Standard & Secure Discovery Tool (In Development)"
 collection: portfolio
-permalink: /portfolio/omics-metadata-discovery
+category: infrastructure
+permalink: /infrastructure/omics-metadata-discovery
 excerpt: "Designing a harmonised omics metadata standard and governance-aware discovery tool for TRE users."
 ---
 
