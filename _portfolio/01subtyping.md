@@ -2,6 +2,7 @@
 title: "Precision Subtyping of Dementia via Multi-Omic Integration and Constrained Unsupervised Learning"
 category: research
 excerpt: "Designed a framework for transdiagnostic dementia subtyping by integrating WGS, transcriptomics, and longitudinal/digital phenotyping with robust batch correction and biologically anchored clustering."
+permalink: /research/molecular_subtyping
 collection: portfolio
 ---
 
