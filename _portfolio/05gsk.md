@@ -2,7 +2,7 @@
 title: "Using Human Genetic Data to Inform Drug Discovery"
 collection: portfolio
 category: research
-permalink: /portfolio/genetics-drug-discovery/
+permalink: /research/genetics-drug-discovery
 excerpt: "Applied genetic analysis to support target discovery and prioritisation in drug development."
 ---
 
