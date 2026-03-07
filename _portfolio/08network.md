@@ -2,7 +2,7 @@
 title: "Disease Prediction Using a Symptom–Disease Network"
 collection: portfolio
 category: software
-permalink: /portfolio/disease-symptom-network
+permalink: /software/disease-symptom-network
 excerpt: "Probabilistic modelling of disease risk using structured symptom–disease relationships."
 ---
 <br/><img src='/images/net.png'>"
