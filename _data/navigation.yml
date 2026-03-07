@@ -14,15 +14,17 @@ main:
   - title: "Conference Presentations"
     url: /talks/       
     
-  - title: "Portfolio Collection"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
         
-  #- title: "Code"
-   # url: /year-archive/
+  - title: "Infrastructure"
+    url: /Infrastructure/
+
+  - title: "Software"
+    url: /Software/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-  
+
+
