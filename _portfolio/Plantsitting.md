@@ -1,7 +1,8 @@
 ---
 title: "PlantBuddy – Full-Stack Mobile Application  (Personal Engineering Project)"
 collection: portfolio
-permalink: /portfolio/plantbuddy/
+category: software
+permalink: /software/plantbuddy/
 excerpt: "Full-stack Android application with REST API backend and PostgreSQL database for managing plant sitting, exchanges and sales."
 ---
 
