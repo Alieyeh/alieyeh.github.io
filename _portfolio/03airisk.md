@@ -3,7 +3,7 @@ title: "Safe AI in Sensitive Health Data: Risk Evaluation, Attack Simulation, an
 category: research
 excerpt: "Contributed to a DARE UK initiative developing guidance and tools for safe AI development/release from Trusted Research Environments (TREs)."
 collection: portfolio
-permalink: /research/safe_ai/
+permalink: /research/safe-ai
 ---
 ---
 <br/><img src='/images/aisafe.jpg'>"
