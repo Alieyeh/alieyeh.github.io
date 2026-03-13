@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation (Poster)"
 permalink: /talk/2025-aruk-manchester
 venue: "Alzheimer's Research UK Conference, Manchester"
-date: 2025-11-01
+date: 2026-11-01
 location: "Manchester, UK"
 ---
 *PDF: [Open](/files/posters/ARUKSubtypingPoster.pdf)*
