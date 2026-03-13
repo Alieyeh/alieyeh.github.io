@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Precision Subtyping of Dementia Through Multi-Omic Integration<br />Alzheimer's Research UK Conference, Manchester; Manchester, UK",
+    53.4794892,
+    -2.2451148
+  ],
+  [
     "Bringing Genetics Into Life: DPUK Genomics Pipeline Update<br />Dementia Platform UK Translation Conference; United Kingdom",
     54.7023545,
     -3.2765753
@@ -13,10 +18,5 @@ var addressPoints = [
     "A Unified Pipeline for Calculating Polygenic Risk Scores for Dementia and Psychiatric Disorders in DPUK<br />Alzheimer's Research UK Scientific Networking; United Kingdom",
     54.7023545,
     -3.2765753
-  ],
-  [
-    "Precision Subtyping of Dementia Through Multi-Omic Integration<br />Alzheimer's Research UK Conference, Manchester; Manchester, UK",
-    53.4794892,
-    -2.2451148
   ]
 ];
