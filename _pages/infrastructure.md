@@ -5,9 +5,7 @@ permalink: /infrastructure/
 author_profile: true
 ---
 
-This section showcases projects related to **data infrastructure, pipelines and research platforms**.
-
-These systems support large-scale biomedical datasets and enable reproducible and secure research workflows.
+Infrastructure projects focused on secure data ingest, metadata systems, monitoring, governed provisioning, and reproducible workflows for large-scale biomedical research platforms.
 
 {% include base_path %}
 

@@ -1,26 +1,33 @@
 ---
-title: "Safe AI in Sensitive Health Data: Risk Evaluation, Attack Simulation, and Practical Recommendations"
+title: "Safe AI in Sensitive Health Data"
 category: research
-excerpt: "Contributed to a DARE UK initiative developing guidance and tools for safe AI development/release from Trusted Research Environments (TREs)."
+excerpt: "Contribution to DARE UK work on privacy risk, attack simulation and practical governance recommendations for AI development in sensitive health data environments."
 collection: portfolio
 permalink: /research/safe-ai
 ---
----
-<br/><img src='/images/aisafe.jpg'>"
----
+
+<br/><img src="/images/aisafe.jpg" alt="Safe AI project illustration">
+
 ## Overview
-I contributed to a DARE UK funded initiative focused on the risks of AI development and model release in sensitive healthcare data, and the practical role TREs can play in enabling useful AI while protecting privacy. :contentReference[oaicite:8]{index=8}
 
-## What the work covered
-- Mapped key privacy attacks and failure modes relevant to model release (e.g., membership inference, attribute inference, inversion/reconstruction), and how risk changes with complex data types like genomics and neuroimaging. :contentReference[oaicite:9]{index=9}  
-- Participated in the development of recommendations that reduce the need to export models by using **TRE-hosted access**, secure querying, and (where appropriate) federation approaches. :contentReference[oaicite:10]{index=10}  
-- Supported practical evaluation approaches, including the role of privacy attack simulations and interpretable evaluation criteria for release decisions. :contentReference[oaicite:11]{index=11}  
-- Contributed to tool-oriented recommendations (e.g., synthetic data generation + evaluation and privacy/utility trade-off) to make mitigations feasible for real researchers. :contentReference[oaicite:12]{index=12}  
+This work formed part of a DARE UK initiative examining how AI models can be developed and evaluated responsibly when they are trained on sensitive healthcare data.
 
-## Why it matters (impact)
-This kind of work builds institutional trust: it gives data providers clearer ways to reason about risk, helps researchers adopt privacy-preserving practices, and supports responsible AI pathways without blocking valuable science. :contentReference[oaicite:13]{index=13}
----
-<br/><img src='/images/safeai.jpg'>"
----
+The focus was practical: identifying privacy risks, considering how those risks change across complex data types, and developing recommendations that can be used by Trusted Research Environments and research teams.
 
-**Tags**: AI-SDC · Python · Matplotlib · Privacy threat modelling · evaluation framing · attack-simulation · practical governance design for TREs · encryption · synthetic data
+## My Contribution
+
+- Contributed to analysis of privacy attacks and failure modes relevant to model release.
+- Helped frame risk considerations for complex biomedical data types, including genomics and imaging.
+- Supported discussion of mitigation strategies such as TRE-hosted access, secure querying and privacy-aware evaluation.
+- Contributed to recommendations around synthetic data, evaluation, and governance processes for AI model release.
+
+## Why It Matters
+
+AI governance in health research needs to protect participants without making useful research impossible. This work supports more structured decisions about when models, outputs or tools can be released, and when secure access models are more appropriate.
+
+## Outputs
+
+- DARE UK report: *Perspectives and Recommendations on the Development of Safe AI in Sensitive Healthcare Data*.
+- Related workshop output: *Privacy in Synthetic Data Workshop Findings*.
+
+**Tags:** AI governance, privacy risk, disclosure control, synthetic data, Trusted Research Environments, model release, health data

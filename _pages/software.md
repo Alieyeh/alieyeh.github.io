@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-This section contains software engineering projects exploring system architecture, backend services and application development.
+Software projects focused on reusable research tools, preprocessing pipelines, backend systems, and practical application development.
 
 {% include base_path %}
 

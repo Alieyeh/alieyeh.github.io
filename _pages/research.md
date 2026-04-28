@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This page is dedicated to research projects and data science work.
+Research projects focused on biomedical data science, statistical genetics, machine learning, and translational use of complex health and omics data.
 
 {% include base_path %}
 

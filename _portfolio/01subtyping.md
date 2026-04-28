@@ -1,25 +1,36 @@
 ---
-title: "Precision Subtyping of Dementia via Multi-Omic Integration and Constrained Unsupervised Learning"
+title: "Multi-Omic Dementia Subtyping"
 category: research
-excerpt: "Designed a framework for transdiagnostic dementia subtyping by integrating WGS, transcriptomics, and longitudinal/digital phenotyping with robust batch correction and biologically anchored clustering."
+excerpt: "Exploratory project integrating genomic, clinical and derived cohort data to support dementia subtype discovery and biologically interpretable stratification."
 permalink: /research/molecular-subtyping
 collection: portfolio
 ---
 
 ## Overview
-Dementia diagnoses often compress heterogeneous biology into broad clinical labels. This project proposes a multi-omic strategy to identify molecular subtypes that better explain progression and could support stratified trials and earlier intervention. :contentReference[oaicite:14]{index=14}
 
-## Approach
-- Integrate **genomic risk (WGS)**, **transcriptomic signatures (snRNA-seq)**, and **cognitive/digital trajectories** across AD, VaD, FTD, LBD, and MCI. :contentReference[oaicite:15]{index=15}  
-- Apply **ComBat** for batch correction and **MOFA+** for cross-modality factor analysis to handle heterogeneity and noise across cohorts. :contentReference[oaicite:16]{index=16}  
-- Use dimensionality reduction (PCA/UMAP) and biologically constrained subtype discovery (e.g., anchors such as known genetic/pathology extremes) to increase interpretability and reproducibility. :contentReference[oaicite:17]{index=17}  
+This project explores whether heterogeneous dementia presentations can be better understood through integrated analysis of multi-omic and longitudinal cohort data. The aim is to support patient stratification by identifying candidate subgroups with distinct molecular, clinical or progression patterns.
 
-## Intended outputs
-Subtype characterisation, progression prediction (e.g., for MCI), and clinically actionable classifiers for stratification and trial design. :contentReference[oaicite:18]{index=18}
+The work is exploratory and hypothesis-generating rather than a deployed clinical tool.
 
+## My Contribution
 
-**Expected Impact:** Supports generation of testable hypotheses and improves understanding of molecular heterogeneity in dementia-related datasets and disease pathways.
+- Designed the analytical framing for multi-omic dementia subtyping.
+- Integrated genomic, clinical and derived data sources into analysis-ready structures.
+- Developed preprocessing and exploratory analysis workflows for high-dimensional biomedical data.
+- Applied clustering and semi-supervised machine learning approaches where appropriate to the dataset and study question.
+- Planned validation against clinical endpoints and biological interpretation through pathway analysis.
 
-**Tags:** Python · scikit-learn · pandas/numpy · Matplotlib/Plotly · Multi-omic integration · unsupervised learning · batch correction · validation framing · risk management planning for complex data
+## Methods
 
+- Multi-omic data integration
+- Feature engineering and cohort harmonisation
+- Dimensionality reduction and clustering
+- Semi-supervised learning concepts
+- Pathway-oriented biological interpretation
+- Reproducible Python-based analysis workflows
 
+## Status
+
+This work is in development as a research project, with conference presentation and protocol/manuscript preparation planned or underway.
+
+**Tags:** Python, scikit-learn, PyTorch, pandas, multi-omics, clustering, feature engineering, pathway analysis, dementia research

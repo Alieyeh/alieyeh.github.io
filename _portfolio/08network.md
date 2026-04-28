@@ -1,19 +1,24 @@
 ---
-title: "Disease Prediction Using a Symptom–Disease Network"
+title: "Disease Prediction Using a Symptom-Disease Network"
 collection: portfolio
 category: software
 permalink: /software/disease-symptom-network
-excerpt: "Probabilistic modelling of disease risk using structured symptom–disease relationships."
+excerpt: "Early software project modelling disease risk through symptom-disease relationships and probabilistic reasoning."
 ---
-<br/><img src='/images/net.png'>"
----
-This project focused on modelling disease risk through structured symptom–disease networks, combining graph-based representations with probabilistic prediction approaches.
 
-### Key Elements
-- Network-based representation of clinical relationships
-- Probabilistic disease prediction
-- Development of a simple user-facing interface for risk estimation
+<br/><img src="/images/net.png" alt="Symptom-disease network visualisation">
 
-The work reflects an early foundation in structured data modelling and system design that continues to inform my current approach to large-scale biomedical data infrastructure.
+## Overview
 
-**Tags:** Java · Network Analysis · Visualization · Predictive model
+This early software project modelled disease risk using structured symptom-disease relationships. It combined graph-style representation with probabilistic reasoning and a simple user-facing interface.
+
+## What It Demonstrates
+
+- Structured representation of symptom and disease relationships.
+- Probabilistic prediction logic.
+- User-facing interface design for a health-oriented tool.
+- Foundations in Java, data modelling and applied software engineering.
+
+The project is best understood as an early engineering foundation rather than a clinical decision-support product.
+
+**Tags:** Java, network analysis, probabilistic modelling, visualisation, health software, undergraduate project

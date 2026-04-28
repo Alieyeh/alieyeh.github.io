@@ -11,9 +11,10 @@ redirect_from:
 
 Professional Summary
 ======
-Genomic Data Scientist specialising in secure, scalable health data systems within Trusted Research Environments (TREs). My work spans genomics pipeline engineering, metadata-driven data infrastructure, statistical genetics, and applied machine learning. I focus on building reproducible, governance-aware platforms that enable researchers to move from raw cohort data to reliable analytical outputs efficiently and responsibly.
 
-I combine a background in computer engineering with advanced training in health data science and genomics, allowing me to operate across system architecture, workflow orchestration, statistical modelling, and secure data governance.
+Genomic data scientist specialising in reproducible bioinformatics, secure research data infrastructure and applied biomedical data science. My work spans genomics ingest and provisioning, metadata systems, statistical genetics, workflow engineering, and practical tools for researchers working with sensitive health and omics data.
+
+I combine a computer engineering background with MSc training in health data science and genomics, allowing me to work across software design, HPC workflows, data governance, statistical analysis and researcher-facing documentation.
 
 ---
 
@@ -22,108 +23,101 @@ Current Role
 
 **Genomic Data Scientist**  
 Dementias Platform UK (DPUK), Swansea University  
-2023 – Present  
+2023 - Present
 
-**Secure Data Infrastructure & Platform Development**
-- Contributed to the design and implementation of a scalable genomics ingest and provisioning framework within a national dementia Trusted Research Environment.
-- Developed metadata-driven discovery tools to standardise cohort description and improve cross-dataset comparability.
-- Implemented structured QC and privacy screening procedures to support responsible onboarding of multi-modal genomic datasets.
-- Co-leading the development of automated NLP tool for the detection of Personal Identifiable Information (PII) in cohort data.
-- Employed database management and data visualization techniques, including updating and maintaining powerbi and rshiny dashboard, for the great minds feasibility tool.
-- Designed governed data provisioning workflows aligned with Five Safes principles.
+**Secure Data Infrastructure and Platform Development**
+- Designed and implemented genomics ingest and provisioning workflows within a dementia-focused Trusted Research Environment.
+- Developed metadata and tagging structures to improve dataset classification, discovery and feasibility assessment.
+- Built QC, validation and privacy-aware handling processes for onboarding genomics and multi-omics datasets.
+- Supported governed data provisioning workflows aligned with secure research principles.
+- Contributed to database, dashboard and visualisation work for researcher-facing feasibility and discovery tools.
+- Authored documentation and SOP-style guidance for repeatable data onboarding and provisioning processes.
 
-**Workflow Engineering & HPC Optimisation**
-- Developed and maintained reproducible genomics workflows using Snakemake/Nextflow-style orchestration.
-- Optimised Polygenic Risk Score (PRS) pipeline execution on SLURM-based HPC systems, reducing runtime and improving accessibility for non-specialist researchers.
-- Implemented containerised execution environments (Singularity/Docker) to ensure cross-platform reproducibility.
-- Implemented automated weekly integrity monitoring n8n workflow to detect unauthorised file modifications or version drift.
+**Workflow Engineering and HPC**
+- Developed and maintained reproducible genomics workflows for secure Linux and SLURM-based environments.
+- Improved polygenic risk score pipeline execution through parallelisation, resource-aware configuration and clearer documentation.
+- Used containerised execution patterns with Singularity and Docker to support reproducibility.
+- Implemented automated integrity monitoring to detect unexpected file changes or version drift in shared research storage.
 
-**Applied Genomics & Machine Learning**
-- Performed region-based association analyses and statistical genetics workflows on large-scale cohorts (e.g., UK Biobank and dementia-focused datasets).
-- Designed semi-supervised multi-omic integration approaches for dementia subtyping research.
-- Developed privacy-aware evaluation strategies for machine learning models operating on sensitive health data.
+**Applied Genomics and Machine Learning**
+- Worked on statistical genetics and genomic analysis workflows across large cohort datasets.
+- Developed exploratory multi-omic approaches for dementia subtyping and patient stratification research.
+- Contributed to privacy-aware evaluation and governance thinking for AI models in sensitive health data settings.
 
-**AI Risk & Governance**
-- Contributed to a DARE UK–funded initiative examining AI model release risks within TRE environments.
-- Evaluated privacy attack vectors (e.g., membership and attribute inference risks) and mitigation strategies.
-- Supported practical recommendations for safe AI deployment within secure research platforms.
-
-**Leadership & Mentorship**
-- Serving as project lead for a genomics metadata curation and discovery initiative, supervising an intern.
-- Contributed to internal training materials and HPC usage guidance for researchers.
+**Leadership and Knowledge Exchange**
+- Supervising intern work on omics metadata discovery infrastructure.
+- Delivered and contributed to training materials on HPC usage, workflow execution and secure data handling.
+- Collaborated with researchers, governance specialists, clinicians and infrastructure engineers to translate research needs into practical workflows.
 
 ---
 
 Previous Experience
 ======
 
-**Data Scientist – Human Genetics (GSK, complementary role)**  
-2021 – 2022  
+**Data Scientist - Human Genetics, GSK**
 
-- Worked on human genetic data applications for drug discovery.
-- Conducted annotation and region-based association analyses on large-scale genomic datasets.
-- Supported translational research by integrating genetic evidence into target prioritisation workflows.
+2023
 
-**Data Scientist – Health Research Project**  
-2020 – 2021  
+- Performed region-based association analyses using UK Biobank whole-genome sequencing data.
+- Developed Python-based annotation and processing workflows for rare non-coding genomic regions.
+- Integrated Python and REGENIE workflows into HPC-based statistical genetics analyses.
+- Worked within a regulated pharmaceutical research environment alongside geneticists and computational scientists.
 
-- Developed machine learning models for clinical risk prediction in hospitalised patients.
-- Applied survival modelling, decision trees, and rule-mining approaches to structured hospital datasets.
-- Contributed to analysis of COVID-19 outcomes in high-risk populations.
+**Health Data Scientist - Clinical Machine Learning Research**
 
-**Software & Backend Development (Early Career Roles)**  
-2017 – 2019  
+2021 - 2022
 
-- Developed backend systems and database-driven applications.
-- Designed relational database schemas and implemented RESTful API-style architectures.
-- Gained experience in production-oriented software engineering and structured system design.
+- Developed machine learning models for clinical outcome prediction using hospital patient datasets.
+- Performed feature engineering, model evaluation and interpretation under appropriate research governance.
+- Contributed to manuscript preparation for a peer-reviewed COVID-19 mortality prediction study.
 
 ---
 
 Education
 ======
 
-**MSc Health Data Science (Genomics specialisation)**  
-University of Exeter, 2022–2023  
-- Thesis (in collaboration with GSK): Using human genetic data to inform drug discovery through annotation strategies and region-based association testing.
+**MSc Health Data Science (Genomics)**
 
-**BSc Computer Engineering**  
-Iran University of Science and Technology, 2016–2021  
-- Thesis: Disease prediction using symptom–disease network modelling and probabilistic inference software.
+University of Exeter, 2022 - 2023
+- Thesis in collaboration with GSK: using human genetic data to inform drug discovery through annotation strategies and region-based association testing.
+
+**BSc Computer Engineering**
+
+Iran University of Science and Technology, 2016 - 2021
+- Thesis: disease prediction using symptom-disease network modelling and probabilistic inference software.
 
 ---
 
 Technical Expertise
 ======
 
-**Workflow & Infrastructure**
-- Linux environments, HPC (SLURM), containerisation (Singularity/Docker)
-- Reproducible pipeline design (n8n, Snakemake, Nextflow-style orchestration)
-- Structured data ingest, metadata standardisation, QC automation
-- Secure research computing and governed data access frameworks
+**Workflow and Infrastructure**
+- Linux environments, HPC with SLURM, Docker, Singularity
+- Reproducible workflow design with Nextflow/Snakemake-style orchestration
+- Genomics ingest, QC, metadata standardisation and governed provisioning
+- Trusted Research Environments and secure research workflows
 
-**Genomics & Statistical Genetics**
-- Polygenic Risk Scores (PRS), region-based association tests
-- Large-scale cohort analysis (e.g., UK Biobank-scale workflows)
-- Multi-omics integration strategies
-- Genomic QC and preprocessing toolchains
+**Genomics and Statistical Genetics**
+- Polygenic risk scores, region-based association testing and variant annotation
+- Whole-genome sequencing and cohort-scale genomics workflows
+- PLINK, bcftools, QCtool, REGENIE and related genomics tooling
+- Multi-omics integration concepts and exploratory analysis
 
-**Machine Learning & Data Science**
-- Semi-supervised learning
-- Survival modelling and classification models
-- Privacy attack simulation (membership/attribute inference)
-- Model evaluation under governance constraints
+**Machine Learning and Data Science**
+- scikit-learn, PyTorch, pandas, numpy and R
+- Classification, clustering, feature engineering and model evaluation
+- Survival analysis and clinical prediction modelling experience
+- Privacy-aware evaluation in sensitive health data settings
 
-**Software & Data Engineering**
-- Python (pandas, numpy, scikit-learn, PyTorch)
-- R for statistical genetics workflows
-- SQL and relational database design (ER modelling, PostgreSQL schematics)
-- RESTful design principles
-- Unit testing and performance-aware system design
+**Software and Data Engineering**
+- Python, R, SQL, Bash, Java
+- PostgreSQL, relational database design and ER modelling
+- Streamlit, Plotly, Matplotlib and dashboard-oriented communication
+- Git, testing, documentation and research software packaging
 
 ---
 
-Publications & Reports
+Publications and Reports
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
@@ -131,7 +125,7 @@ Publications & Reports
 
 ---
 
-Conference Posters & Talks
+Conference Posters and Talks
 ======
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
@@ -139,8 +133,9 @@ Conference Posters & Talks
 
 ---
 
-Service & Professional Contributions
+Service and Professional Contributions
 ======
 - Contributor to internal training materials on secure genomics workflows and HPC usage.
 - Contributor to policy-oriented work on AI risk and responsible data science in secure environments.
 - Author of educational material on selecting appropriate genomics datasets for research use cases.
+- ONS Safe Researcher accredited.

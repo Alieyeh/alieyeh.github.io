@@ -6,9 +6,9 @@ permalink: /software/multimodal-preprocessing-pipeline/
 excerpt: "Reproducible Python pipeline for downloading, harmonising, preprocessing, validating and reporting on multimodal time-series datasets for downstream machine learning use."
 ---
 
-## Multimodal Preprocessing Pipeline
+## Overview
 
-A reproducible preprocessing pipeline for multimodal physiological and activity datasets, covering PAMAP2, WISDM, EEGMMIDB, PTB-XL and optional mHealth data.
+A reproducible preprocessing pipeline for multimodal physiological and activity datasets, covering public HAR, EEG and ECG datasets such as PAMAP2, WISDM, EEGMMIDB and PTB-XL.
 
 The project separates setup, preprocessing, validation and reporting into clear command-line stages, with Python implementations behind lightweight shell and PowerShell entrypoints.
 
@@ -34,4 +34,4 @@ The project separates setup, preprocessing, validation and reporting into clear 
 GitHub repository:  
 [github.com/Alieyeh/Multimodal-Preprocessing-Pipeline](https://github.com/Alieyeh/Multimodal-Preprocessing-Pipeline)
 
-**Tags:** Python, reproducible pipelines, multimodal time-series, EEG, ECG, HAR, data validation, automated testing
+**Tags:** Python, reproducible pipelines, multimodal time-series, EEG, ECG, HAR, CLI tooling, validation, automated testing

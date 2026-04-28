@@ -1,25 +1,25 @@
 ---
-title: "HYPEHD: Python Package for Genetic Analysis"
+title: "HYPEHD Python Package"
 collection: portfolio
 category: software
 permalink: /software/hypehd
-excerpt: "Public Python package supporting structured genetic analysis workflows."
+excerpt: "Public Python package for exploring longitudinal and demographic health datasets."
 ---
 
-**Package Author**
+## Overview
 
-HYPEHD is a Python package designed to support structured genetic data analysis workflows.
+HYPEHD is a public Python package developed to support exploration of longitudinal and demographic health data. It reflects my interest in building lightweight, reusable research software around common data exploration tasks.
 
-The package focuses on:
+## Focus
 
-- Reproducible genomic analysis routines
-- Clear modular architecture
-- Clean API design
-- Extensibility for research contexts
+- Structured loading and exploration of health dataset features.
+- Reusable analysis utilities for longitudinal and demographic data.
+- Clear package structure suitable for research code reuse.
+- Public distribution through PyPI and source control through GitHub.
 
-The source code is publicly available on GitHub and distributed via PyPI.
+## Repository
 
-- GitHub: https://github.com/Alieyeh/hypehd
-- PyPI: https://pypi.org/project/hypehd/
+- GitHub: [github.com/Alieyeh/hypehd](https://github.com/Alieyeh/hypehd)
+- PyPI: [pypi.org/project/hypehd](https://pypi.org/project/hypehd/)
 
-Tags: Python · seaborn · scipy · scikit-learn · matplotlib · lifelines
+**Tags:** Python, PyPI, pandas, scipy, scikit-learn, matplotlib, seaborn, lifelines, research software

@@ -1,21 +1,38 @@
 ---
-title: "PRS Pipeline Acceleration on SLURM HPC"
+title: "Polygenic Risk Score Pipeline on SLURM HPC"
 category: research
-excerpt: "Re-architected a polygenic risk score workflow for distributed execution and improved resource utilisation, reducing runtime and improving usability for non-expert users."
+excerpt: "Re-architected and documented a PRS workflow for scalable, reproducible execution across large cohort datasets in a secure research environment."
 collection: portfolio
 permalink: /research/prs-pipeline
 ---
-<br/><img src='/images/prsflow.jpg'>"
----
 
-**Challenge:** A functional PRS workflow was slow and underutilised available compute resources, limiting uptake by researchers with varying technical expertise.
+<br/><img src="/images/prsflow.jpg" alt="Polygenic risk score workflow">
 
-**What I did:**
-- Reviewed pipeline architecture and identified bottlenecks in HPC execution  
-- Implemented parallelisation and resource-aware job configuration for SLURM  
-- Improved documentation and usage patterns to reduce the need for specialist support  
-- Validated outputs to ensure reproducibility and consistent results
+## Overview
 
-**Impact:** Reduced runtime for large PRS analyses from days/weeks to hours, improving accessibility and supporting faster dementia research workflows.
+Polygenic risk score analyses can be difficult for research teams to run consistently at cohort scale, particularly in secure HPC environments where reproducibility, documentation and resource use all matter.
 
-**Tags:** SLURM · Linux · workflow orchestration · containers · Python/R · Nextflow · PLINK · Minimac3
+This project improved the execution strategy and usability of a PRS workflow for dementia and psychiatric disease research.
+
+## My Contribution
+
+- Reviewed the existing workflow and identified bottlenecks in HPC execution.
+- Reworked job configuration and parallelisation patterns for SLURM.
+- Improved documentation so non-specialist researchers could run analyses more independently.
+- Supported migration toward more reproducible workflow orchestration.
+- Validated outputs to preserve consistency while improving runtime.
+
+## Outcome
+
+The changes reduced large-cohort runtime from days or weeks to hours in practical use cases, while improving usability and reproducibility for researchers working inside the secure platform.
+
+## Technical Scope
+
+- SLURM job orchestration
+- Containerised execution patterns
+- PRS workflow documentation
+- PLINK and related genomics tools
+- Python/R support scripts
+- Nextflow-oriented workflow design
+
+**Tags:** SLURM, Linux, Nextflow, containers, Python, R, PLINK, PRS, reproducible workflows, genomics

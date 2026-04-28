@@ -2,66 +2,44 @@
 permalink: /
 title: "Alieyeh Sarabandi Moghaddam"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+Health and genomics data scientist working across reproducible bioinformatics, secure research infrastructure and applied biomedical data science.
 
-Health & Genomics Data Scientist  
-Reproducible Workflows · Secure Research Infrastructure · Applied Machine Learning
+I build governance-aware data workflows and practical analytical tools that help researchers move from complex cohort, genomics and multi-omics data to reliable outputs. My work sits at the intersection of secure research environments, workflow engineering, metadata systems and translational data science.
 
----
+## Current Focus
 
-I build governance-aware data systems and reproducible analytical workflows that help biomedical researchers move from complex cohort data to reliable, usable outputs. My work sits at the intersection of **genomics**, **secure research computing**, and **practical data science**, with an emphasis on scalable execution, clarity, and real-world adoption.
+**Reproducible workflow engineering**
+Scalable pipelines, SLURM HPC execution, containerised workflows, documentation and researcher-facing guidance.
 
-**Current focus:**
-- **Reproducible Workflow Engineering**  
-  Nextflow pipelines, SLURM HPC optimisation, containerisation (Singularity/Docker), scalable execution design.
+**Secure research data infrastructure**
+Genomics ingest, QC, metadata standardisation, governed provisioning and integrity monitoring inside Trusted Research Environments.
 
-- **Secure Research Data Infrastructure**  
-  Governance-aware ingest pipelines, metadata standardisation, NLP enabled PII checking tool, structured data provisioning within TRE environments.
+**Applied health and genomics data science**
+Statistical genetics, polygenic risk scores, multi-omics integration, exploratory machine learning and dementia-focused research.
 
-- **Applied Health & Genomics Data Science**  
-  Multi-omics processing, statistical genetics, semi-supervised learning, interpretable modelling, omic-data exploration and visualization tool.
+**Practical research software**
+Python packages, command-line tools, dashboards, metadata discovery systems and automation for data quality and operations.
 
-- **Practical Tool Development**  
-  Interactive dashboards, data and metadata discovery systems, automation and data quality tooling, file/folder monitoring scripts.
-  
-- **policy Design**
-  Contributing to policy-oriented work on **safe AI in sensitive healthcare data**, 
-  Contributing to data/output disclosiveness standards for sequencing and genotyping in TREs.
-  
-
----
-
-## Areas of Interest
-
-- Interested in healthcare impact, evidence generation and applied data science.
-- Keen interest in rare disease, cognitive and psychiatric disorders, disease pathways, and precision medicine. 
-- A passion for workflow design and bioinformatic tool development.
-
----
+**Responsible data and AI governance**
+Contributions to safe AI guidance, disclosure control thinking and privacy-aware handling of sensitive biomedical data.
 
 ## Selected Projects
 
-### Secure Genomics Ingest & Provisioning Framework (TRE)
-Designed an end-to-end framework for onboarding, QC, metadata standardisation and secure provisioning of cohort-scale genomics datasets.  
-Improved reproducibility, reduced manual effort, and accelerated time-to-analysis for downstream researchers.
+### Secure Genomics Ingest and Provisioning Framework
+Designed governed workflows for onboarding, quality checking, organising and provisioning cohort-scale genomics and multi-omics datasets in a Trusted Research Environment.
 
-### PRS Pipeline Acceleration on SLURM HPC
-Re-architected a polygenic risk score pipeline to enable distributed execution and resource-aware configuration.  
-Reduced runtime from days/weeks to hours while improving accessibility for non-expert users.
+### Polygenic Risk Score Pipeline on SLURM HPC
+Improved a PRS workflow for scalable execution, better documentation and more accessible use by researchers working in secure compute environments.
 
-### NLP-Enabled Metadata Discovery (In Progress)
-Developing a graphic metadata discovery platform using structured curation and text-processing techniques to improve dataset searchability and cross-team reuse. Managing an intern.
+### Omics Metadata Standard and Discovery Tool
+Developing a metadata framework and discovery approach to improve dataset findability, feasibility assessment and governance-aware use of omics data.
 
-### Semi-Supervised Multi-Omics Disease Subtyping
-Applying semi-supervised learning approaches to identify molecular subgroups in dementia-related multi-omics datasets.
+### Multi-Omic Dementia Subtyping
+Exploratory research integrating genomic, clinical and derived data to support candidate dementia subtype discovery and biological interpretation.
 
-
-
-
----
-
-For collaboration, opportunities, or further information, please see the **Contact** or **CV** sections.
+For collaboration, opportunities or further information, please see the CV and project pages.

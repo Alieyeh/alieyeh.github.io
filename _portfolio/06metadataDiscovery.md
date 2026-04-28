@@ -1,35 +1,35 @@
 ---
-title: "Unified Omics Metadata Standard & Secure Discovery Tool (In Development)"
+title: "Omics Metadata Standard and Discovery Tool"
 collection: portfolio
 category: infrastructure
 permalink: /infrastructure/omics-metadata-discovery
-excerpt: "Designing a harmonised omics metadata standard and governance-aware discovery tool for TRE users."
+excerpt: "In-development metadata framework and discovery tool to improve findability, feasibility assessment and governance-aware use of multi-omics datasets."
 ---
 
-**Project Lead & Designer**
+## Overview
 
-I am leading the design of a unified and harmonised metadata standard for multi-omic datasets within a Trusted Research Environment (TRE), alongside a secure data discovery and feasibility assessment tool for researchers.
+Large research platforms often hold rich omics datasets, but the surrounding documentation can be fragmented across spreadsheets, free text, file headers and project records. This makes it hard for researchers to identify suitable datasets and assess feasibility before applying for access.
 
-### Project Scope
+This project develops a harmonised metadata approach for genomics and multi-omics datasets in a Trusted Research Environment.
 
-The system is designed to:
+## My Contribution
 
-- Define a cross-modality metadata schema for genomics, transcriptomics, proteomics and related omics data
-- Standardise representation of common file types (e.g., VCF, PLINK, BAM, expression matrices)
-- Parse structured and semi-structured documentation
-- Extract and analyse file header information (e.g., VCF metadata fields)
-- Implement governance-aware filtering to prevent surfacing potentially disclosive information
-- Provide user-facing discovery and feasibility assessment prior to formal data access application
+- Designed the initial metadata framework and discovery-tool concept.
+- Defined structured metadata fields for dataset type, file structure, cohort context and access-relevant information.
+- Developed the architecture for metadata curation, search and feasibility assessment.
+- Supervised intern work contributing to metadata discovery infrastructure.
+- Explored NLP-based approaches for extracting useful structure from unstructured dataset documentation.
 
-### Technical Direction (Planned)
+## Technical Direction
 
-- Metadata normalisation layer
-- Searchable structured index
-- Free-text parsing and keyword extraction from documentation
-- File-type detection and automated metadata extraction
-- TRE-aligned privacy screening logic
-- Graphical user interface for structured data discovery
+- Cross-modality metadata schema for genomics and related omics data.
+- Structured representation of common file types and derived outputs.
+- Searchable index for dataset discovery and comparison.
+- Governance-aware filtering to avoid surfacing sensitive or disclosive information.
+- User-facing discovery workflows for researchers before formal access applications.
 
-This project has been proposed and approved and will enter development upon recruitment of a supervised intern. The architecture and system design were developed independently, with a focus on scalability, governance compliance, and researcher usability.
+## Status
 
-**Tags:** NLP · Machine learning · ER diagrams for database design · PostgreSQL · Genomics · Visualization
+In development. The design is intended to support scalable data discovery while preserving the governance expectations of a secure research environment.
+
+**Tags:** metadata, PostgreSQL, NLP, dataset discovery, omics, governance, ER modelling, Trusted Research Environments

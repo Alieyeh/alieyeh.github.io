@@ -1,22 +1,32 @@
 ---
-title: "Using Human Genetic Data to Inform Drug Discovery"
+title: "Human Genetics Analysis for Drug Discovery"
 collection: portfolio
 category: research
 permalink: /research/genetics-drug-discovery
-excerpt: "Applied genetic analysis to support target discovery and prioritisation in drug development."
+excerpt: "Applied UK Biobank whole-genome sequencing analysis and region-based association testing to support translational human genetics research."
 ---
 
-Conducted applied research using human genetic data from UK Biobank to support drug discovery and target prioritisation. This project explored the use of large-scale human genetic data to inform drug discovery and target prioritisation, with a focus on translational relevance and methodological robustness.
+## Overview
 
+This project used large-scale human genetics data to support early-stage drug discovery and target prioritisation. The work was completed during an industry-linked MSc placement with GSK Human Genetics.
 
-The work explored:
-- Optimized annotation of genomic rare non-coding regions for whole genome sequencing data
+## My Contribution
+
+- Performed region-based association analyses using UK Biobank whole-genome sequencing data.
+- Developed Python workflows for efficient annotation of rare non-coding genomic regions.
+- Integrated analysis steps with HPC-based genetics workflows.
+- Supported quality control and interpretation of statistical genetics outputs.
+
+## Technical Scope
+
+- Whole-genome sequencing data
+- Rare variant annotation
 - Region-based association testing
-- Translational interpretation of genetic signals
+- REGENIE and HPC execution
+- Python and Bash workflow development
 
-This project was conducted in collaboration with industry and focused on bridging human genetics and therapeutic development.
+## What It Demonstrates
 
-### Context & Impact
-The work was conducted in close alignment with industry-led genetics research practices and reflects real-world considerations in leveraging human genetic evidence to support early-stage drug discovery decisions.
+The project strengthened my experience in translational statistical genetics, reproducible analysis, and working within a regulated pharmaceutical research environment.
 
-**Tags:** HPC · SLURM · WGS · REGENIE · BASH Script · Python · Efficient Annotation Algorithms · Region-Based Association Testing
+**Tags:** WGS, UK Biobank, REGENIE, Python, Bash, SLURM, rare variants, annotation, statistical genetics
