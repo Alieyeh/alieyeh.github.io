@@ -48,7 +48,7 @@ Designed governed workflows for onboarding, quality checking, organising and pro
 Improved PRS workflow execution through parallelisation, clearer documentation and reproducible workflow design for secure compute environments.
 
 ### Omics Metadata Standard and Discovery Tool
-Developing metadata structures and discovery workflows that help researchers understand dataset suitability before formal access applications.
+Scoped a DPUK Omics Metadata Atlas and feasibility tool to help researchers search, compare and assess non-disclosive omics dataset metadata before formal access applications.
 
 ### Five-Pillar Genomic Dataset Selection Guide
 Published a Real World Data Science guide helping researchers evaluate genomic datasets across discovery, governance, assay choice, cohort context and analysis readiness.
