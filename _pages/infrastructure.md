@@ -5,7 +5,9 @@ permalink: /infrastructure/
 author_profile: true
 ---
 
-Infrastructure projects focused on secure data ingest, metadata systems, monitoring, governed provisioning, and reproducible workflows for large-scale biomedical research platforms.
+Infrastructure projects focused on the systems that make biomedical data usable: secure ingest, metadata, validation, monitoring, governed provisioning and reproducible workflows.
+
+Much of this work sits behind the scenes, but it is what allows researchers to trust that complex genomics data is findable, well described, access controlled and ready for analysis.
 
 {% include base_path %}
 

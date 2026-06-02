@@ -1,5 +1,5 @@
 ---
-title: "Disease prediction using a symptom–disease network"
+title: "Disease Prediction Using a Symptom-Disease Network"
 collection: publications
 category: theses
 permalink: /publication/bsc-thesis
@@ -9,4 +9,4 @@ venue: "BSc Thesis, Iran University of Science and Technology"
 
 **Sarabandi Moghaddam, A.** (2021).
 
-Undergraduate thesis focused on probabilistic modelling of disease–symptom networks and development of a prediction tool integrating structured relational data.
+Undergraduate thesis developing a probabilistic disease prediction tool using structured symptom-disease relationships and relational data modelling.

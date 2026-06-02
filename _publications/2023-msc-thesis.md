@@ -1,5 +1,5 @@
 ---
-title: "Using human genetic data to inform drug discovery"
+title: "Using Human Genetic Data to Inform Drug Discovery"
 collection: publications
 category: theses
 permalink: /publication/msc-thesis
@@ -9,4 +9,4 @@ venue: "MSc Thesis, University of Exeter"
 
 **Sarabandi Moghaddam, A.** (2023).
 
-Master’s dissertation exploring the use of human genetic data, including region-based association testing and annotation strategies, to inform drug target prioritisation and translational research.
+Master's dissertation, completed in collaboration with GSK Human Genetics, using annotation strategies and region-based association testing to explore how human genetic evidence can support drug target prioritisation.

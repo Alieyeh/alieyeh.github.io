@@ -1,7 +1,7 @@
 ---
 title: "Safe AI in Sensitive Health Data"
 category: research
-excerpt: "Contribution to DARE UK work on privacy risk, attack simulation and practical governance recommendations for AI development in sensitive health data environments."
+excerpt: "Contribution to DARE UK work on privacy risk, model release, synthetic data and practical governance for AI in sensitive health data environments."
 collection: portfolio
 permalink: /research/safe-ai
 ---
@@ -10,20 +10,20 @@ permalink: /research/safe-ai
 
 ## Overview
 
-This work formed part of a DARE UK initiative examining how AI models can be developed and evaluated responsibly when they are trained on sensitive healthcare data.
+This work formed part of a DARE UK initiative on how AI models can be developed, evaluated and shared responsibly when they are trained on sensitive healthcare data.
 
-The focus was practical: identifying privacy risks, considering how those risks change across complex data types, and developing recommendations that can be used by Trusted Research Environments and research teams.
+The focus was practical: identify privacy risks, understand how risk changes across data types, and recommend safer ways for Trusted Research Environments and research teams to support useful AI work.
 
 ## My Contribution
 
-- Contributed to analysis of privacy attacks and failure modes relevant to model release.
+- Contributed to analysis of privacy attacks and model release failure modes.
 - Helped frame risk considerations for complex biomedical data types, including genomics and imaging.
-- Supported discussion of mitigation strategies such as TRE-hosted access, secure querying and privacy-aware evaluation.
-- Contributed to recommendations around synthetic data, evaluation, and governance processes for AI model release.
+- Supported discussion of TRE-hosted access, secure querying and privacy-aware evaluation.
+- Contributed to recommendations around synthetic data, evaluation workflows and governance processes.
 
 ## Why It Matters
 
-AI governance in health research needs to protect participants without making useful research impossible. This work supports more structured decisions about when models, outputs or tools can be released, and when secure access models are more appropriate.
+The work is valuable because it recognises both sides of the problem: sensitive health data needs strong protection, but research teams also need workable routes to develop and evaluate models. The recommendations support more structured decisions about when outputs can be released and when secure access models are more appropriate.
 
 ## Outputs
 

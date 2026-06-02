@@ -1,7 +1,7 @@
 ---
 title: "Secure Genomics Ingest and Provisioning Framework"
 category: infrastructure
-excerpt: "Governed framework for onboarding, quality checking, structuring and provisioning cohort-scale genomics and multi-omics data in a Trusted Research Environment."
+excerpt: "End-to-end framework for onboarding, validating, organising and provisioning cohort-scale genomics data inside a Trusted Research Environment."
 permalink: /infrastructure/ingest-and-provisioning
 collection: portfolio
 ---
@@ -10,30 +10,27 @@ collection: portfolio
 
 ## Overview
 
-Cohort-scale genomics data needs more than storage: it needs consistent organisation, quality control, metadata, privacy-aware handling and governed access before researchers can use it confidently.
-
-This project focuses on the operational infrastructure needed to ingest and provision genomics and multi-omics datasets within a Trusted Research Environment.
+Large genomics datasets are only useful when researchers can understand what they contain, trust the quality checks, and access approved data through clear governed processes. This project builds the operational layer needed to move cohort-scale genomics and multi-omics data from arrival to analysis readiness.
 
 ## My Contribution
 
-- Designed and implemented semi-automated ingest workflows for large genomic and multi-omics datasets.
+- Designed and implemented semi-automated ingest workflows for WGS, array, methylation and related omics datasets.
+- Built validation scripts and checks for file structure, metadata completeness, privacy readiness and downstream analysis readiness.
 - Established standardised file structures, metadata conventions and dataset tagging practices.
-- Built QC and validation steps using genomics tooling and custom scripts.
-- Supported governed provisioning workflows based on project-level approvals.
-- Helped translate governance, infrastructure and researcher requirements into repeatable operating procedures.
-- Developed internal tooling and documentation to make the process easier for research and operations teams to use.
+- Supported governed provisioning workflows linked to project-level approvals.
+- Produced SOP-style documentation and internal tooling to make the process repeatable for research and operations teams.
 
 ## Technical Scope
 
-- Genomics dataset onboarding and harmonisation
+- Genomics ingest, QC and harmonisation
 - Metadata standardisation and dataset classification
-- QC and privacy screening checks
-- MinIO-backed object storage patterns
-- Linux/HPC-oriented workflow execution
-- Documentation and SOP-style operational guidance
+- PLINK, bcftools, QCtool and custom validation scripts
+- MinIO-backed storage and secure provisioning patterns
+- Linux and HPC-oriented workflow execution
+- Documentation for traceable operational use
 
 ## Impact
 
-The framework improves the reliability, discoverability and analysis-readiness of genomics data in a secure research setting. It reduces manual handling, supports reproducible downstream analysis, and gives researchers clearer routes from data discovery to approved access.
+The framework makes high-throughput genomics data more discoverable, reproducible and analysis-ready. It reduces manual handling, improves operational consistency and gives researchers a clearer route from dataset discovery to approved analytical use.
 
 **Tags:** Python, Bash, Linux, MinIO, PLINK, bcftools, QCtool, metadata, Trusted Research Environments, data governance

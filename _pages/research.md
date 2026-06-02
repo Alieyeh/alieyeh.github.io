@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Research projects focused on biomedical data science, statistical genetics, machine learning, and translational use of complex health and omics data.
+Research projects at the intersection of statistical genetics, multi-omics, clinical prediction and responsible use of sensitive biomedical data.
+
+These projects show how I approach scientific questions: define the data problem clearly, build reproducible workflows, validate outputs carefully and keep the limitations visible.
 
 {% include base_path %}
 

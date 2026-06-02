@@ -7,15 +7,16 @@ venue: "Alzheimer's Research UK Scientific Networking"
 date: 2025-11-18
 location: "United Kingdom"
 ---
+
 *PDF: [Open](/files/posters/PosterPRSPipelineDPUK.pdf)*
 
-**First Author**
+**First author**
 
-Poster presentation describing the development and optimisation of a unified Polygenic Risk Score (PRS) pipeline for dementia and psychiatric disorder research within the DPUK Trusted Research Environment.
+Poster presenting the development of a reproducible PRS workflow for dementia and psychiatric disorder research within the DPUK Trusted Research Environment.
 
 The work focused on:
 
-- Workflow harmonisation across cohorts
-- HPC optimisation and scalability
-- Reproducibility and containerised execution
-- Improving accessibility for non-specialist researchers
+- Harmonising PRS execution across cohorts
+- Improving SLURM-based runtime and resource use
+- Supporting reproducible containerised execution
+- Making the workflow easier for non-specialist research users to run and check

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Profile"
+title                    : "Alieyeh Sarabandi Moghaddam"
 title_separator          : "-"
 name                     : &name "Alieyeh Sarabandi Moghaddam"
-description              : &description "My portfolio page."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Health and genomics data scientist working across bioinformatics, secure research infrastructure, research software and applied biomedical data science."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alieyeh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "pfp1.jpg"
   name             : "Alieyeh Sarabandi"
   pronouns         : # example: "she/her"  
-  bio              : "Health & genomics data scientist focused on reproducible workflows, translatable research, secure data infrastructure, and practical analytical tools. Email is the best way to reach me. Open to collaboration."
+  bio              : "Health and genomics data scientist building reproducible workflows, validation tooling and secure data systems for biomedical research."
   location         : "Wales, UK"
   employer         : "Swansea University"
   uri              : # URL
@@ -85,13 +85,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Peer-Reviewed Journal Articles'
+    title: 'Journal Articles and Manuscripts'
   reports:
     title: 'Technical & Policy Reports'
   theses:
     title: 'Theses'
   articles:
-    title: 'Editorial & Practice Articles'
+    title: 'Practice Articles'
 
 
 slides: "/files/posters/PosterPRSPipelineDPUK.pdf"

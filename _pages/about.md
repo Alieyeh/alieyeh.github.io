@@ -7,45 +7,55 @@ redirect_from:
   - /about.html
 ---
 
-Health and genomics data scientist working across reproducible bioinformatics, secure research infrastructure and applied biomedical data science.
+<div class="profile-intro">
+  <p class="profile-kicker">Health data science | bioinformatics | research software | secure data infrastructure</p>
+  <p class="profile-lead">I build reproducible workflows, validation tooling and practical data systems for complex biomedical and genomic research.</p>
+  <p>My work sits between data science, bioinformatics, software engineering and research governance. I help turn complex cohort, WGS and multi-omics data into traceable, analysis-ready systems that researchers can use with confidence.</p>
+  <div class="profile-actions">
+    <a class="btn btn--primary" href="/portfolio/">View portfolio</a>
+    <a class="btn" href="/cv/">View CV</a>
+    <a class="btn" href="/publications/">Publications</a>
+  </div>
+</div>
 
-I build governance-aware data workflows and practical analytical tools that help researchers move from complex cohort, genomics and multi-omics data to reliable outputs. My work sits at the intersection of secure research environments, workflow engineering, metadata systems and translational data science.
+## Core Strengths
 
-## Current Focus
+<div class="strength-grid">
+  <section>
+    <h3>Bioinformatics and genomics</h3>
+    <p>WGS processing, PRS workflows, variant annotation, statistical genetics and reproducible HPC execution with SLURM, workflow design and containers.</p>
+  </section>
+  <section>
+    <h3>Secure data infrastructure</h3>
+    <p>Genomics ingest, QC, metadata harmonisation, governed provisioning and integrity monitoring inside Trusted Research Environments.</p>
+  </section>
+  <section>
+    <h3>Research software and tooling</h3>
+    <p>Python tools, validation scripts, CLI wrappers, package development, dashboards and documentation that make complex methods easier to reuse.</p>
+  </section>
+  <section>
+    <h3>Applied biomedical data science</h3>
+    <p>Multi-omics integration, exploratory machine learning, clinical prediction work, dataset discovery and practical guidance for responsible research.</p>
+  </section>
+</div>
 
-**Reproducible workflow engineering**
-Scalable pipelines, SLURM HPC execution, containerised workflows, documentation and researcher-facing guidance.
-
-**Secure research data infrastructure**
-Genomics ingest, QC, metadata standardisation, governed provisioning and integrity monitoring inside Trusted Research Environments.
-
-**Applied health and genomics data science**
-Statistical genetics, polygenic risk scores, multi-omics integration, exploratory machine learning and dementia-focused research.
-
-**Practical research software**
-Python packages, command-line tools, dashboards, metadata discovery systems and automation for data quality and operations.
-
-**Responsible data and AI governance**
-Contributions to safe AI guidance, disclosure control thinking and privacy-aware handling of sensitive biomedical data.
-
-**Knowledge translation**
-Published guidance for applied researchers, including a Real World Data Science article on selecting genomic datasets using a practical five-pillar framework.
-
-## Selected Projects
+## Selected Work
 
 ### Secure Genomics Ingest and Provisioning Framework
 Designed governed workflows for onboarding, quality checking, organising and provisioning cohort-scale genomics and multi-omics datasets in a Trusted Research Environment.
 
 ### Polygenic Risk Score Pipeline on SLURM HPC
-Improved a PRS workflow for scalable execution, better documentation and more accessible use by researchers working in secure compute environments.
+Improved PRS workflow execution through parallelisation, clearer documentation and reproducible workflow design for secure compute environments.
 
 ### Omics Metadata Standard and Discovery Tool
-Developing a metadata framework and discovery approach to improve dataset findability, feasibility assessment and governance-aware use of omics data.
+Developing metadata structures and discovery workflows that help researchers understand dataset suitability before formal access applications.
 
 ### Five-Pillar Genomic Dataset Selection Guide
-Published a practical Real World Data Science guide helping researchers evaluate genomic datasets across discovery, governance, assay choice, phenotypic context and quality-control readiness.
+Published a Real World Data Science guide helping researchers evaluate genomic datasets across discovery, governance, assay choice, cohort context and analysis readiness.
 
 ### Multi-Omic Dementia Subtyping
-Exploratory research integrating genomic, clinical and derived data to support candidate dementia subtype discovery and biological interpretation.
+Developing exploratory workflows for integrating genomic, clinical and derived cohort data to support candidate dementia subtype discovery and biological interpretation.
 
-For collaboration, opportunities or further information, please see the CV and project pages.
+## What I Am Looking For
+
+I am interested in roles across health data science, bioinformatics, research software, data engineering and secure research infrastructure where careful engineering, scientific judgement and responsible data use matter.

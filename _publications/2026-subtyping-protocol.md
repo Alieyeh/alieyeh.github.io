@@ -3,19 +3,20 @@ title: "Precision Subtyping of Dementia Through Multi-Omic Integration: Study Pr
 collection: publications
 category: manuscripts
 permalink: /publication/subtyping-protocol
-excerpt: "Protocol paper outlining a transdiagnostic, multi-omic framework integrating genomics, transcriptomics and longitudinal phenotyping for dementia subtyping."
+excerpt: "Protocol manuscript outlining an exploratory multi-omic framework for dementia subtype discovery and patient stratification."
 date: 2026-01-01
 venue: "Manuscript in preparation"
 ---
 
 **Status:** Protocol manuscript in preparation.
 
-This paper outlines a structured framework for precision subtyping of dementia using integrated genomic (WGS), transcriptomic (snRNA-seq), and longitudinal phenotypic data across multiple dementia diagnoses. The protocol emphasises:
+This manuscript outlines an exploratory framework for dementia subtyping using integrated genomic, multi-omic and longitudinal cohort data. The protocol focuses on:
 
 - Cross-cohort harmonisation
-- Batch correction strategies (e.g., ComBat)
-- Multi-modal integration approaches (e.g., MOFA+)
-- Constrained clustering with biologically anchored validation
-- Governance-aware analysis within Trusted Research Environments
+- Batch correction and feature engineering strategies
+- Multi-modal integration approaches
+- Clustering and semi-supervised learning concepts
+- Clinical endpoint validation and biological interpretation
+- Governance-aware analysis within secure research environments
 
-The study aims to improve mechanistic stratification and support trial-ready subtype identification.
+The study is intended to support hypothesis generation around molecular and progression subtypes in dementia.

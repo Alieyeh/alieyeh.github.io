@@ -8,16 +8,16 @@ date: 2026-09-01
 location: "To be confirmed"
 ---
 
-**First Author**
+**First author**
 
-Talk describing the design and implementation of a genomics data facilitation system within the Dementias Platform UK Data Portal.
+Talk describing a genomics data facilitation framework within the Dementias Platform UK Data Portal.
 
 The framework covers:
 
 - Metadata-driven dataset discovery
 - Structured QC and privacy screening workflows
-- Standardised organisation of cohort genomics
+- Standardised cohort organisation
 - Controlled, governance-aware data provisioning
 - Integration with HPC-based analytical workflows
 
-This work focuses on balancing scalability, reproducibility and governance in national-level dementia research infrastructure.
+The work focuses on making national-scale dementia genomics data more findable, reproducible, governable and analysis-ready.

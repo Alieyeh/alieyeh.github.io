@@ -5,7 +5,9 @@ permalink: /software/
 author_profile: true
 ---
 
-Software projects focused on reusable research tools, preprocessing pipelines, backend systems, and practical application development.
+Software projects spanning research packages, preprocessing pipelines, validation tooling, backend design and practical applications.
+
+The common thread is usability: code should be clear enough to reuse, documented enough to hand over and structured enough to support real research work.
 
 {% include base_path %}
 

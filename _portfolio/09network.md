@@ -10,15 +10,15 @@ excerpt: "Early software project modelling disease risk through symptom-disease 
 
 ## Overview
 
-This early software project modelled disease risk using structured symptom-disease relationships. It combined graph-style representation with probabilistic reasoning and a simple user-facing interface.
+This early software project modelled disease risk using structured symptom-disease relationships. It combined a graph-style representation with probabilistic reasoning and a simple user-facing interface.
 
 ## What It Demonstrates
 
-- Structured representation of symptom and disease relationships.
-- Probabilistic prediction logic.
-- User-facing interface design for a health-oriented tool.
-- Foundations in Java, data modelling and applied software engineering.
+- Structured representation of symptom and disease relationships
+- Probabilistic prediction logic
+- User-facing interface design for a health-oriented tool
+- Java, data modelling and applied software engineering foundations
 
-The project is best understood as an early engineering foundation rather than a clinical decision-support product.
+This project is best understood as an early engineering foundation rather than a clinical decision-support product.
 
 **Tags:** Java, network analysis, probabilistic modelling, visualisation, health software, undergraduate project

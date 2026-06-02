@@ -8,14 +8,18 @@ excerpt: "Public Python package for exploring longitudinal and demographic healt
 
 ## Overview
 
-HYPEHD is a public Python package developed to support exploration of longitudinal and demographic health data. It reflects my interest in building lightweight, reusable research software around common data exploration tasks.
+HYPEHD is a public Python package for exploring longitudinal and demographic health data. It reflects my interest in small, reusable research tools that make repeated data exploration tasks easier to run and share.
 
 ## Focus
 
-- Structured loading and exploration of health dataset features.
-- Reusable analysis utilities for longitudinal and demographic data.
-- Clear package structure suitable for research code reuse.
-- Public distribution through PyPI and source control through GitHub.
+- Structured loading and exploration of health dataset features
+- Reusable analysis utilities for longitudinal and demographic data
+- Clear package structure for research code reuse
+- Public distribution through PyPI and source control through GitHub
+
+## Why It Matters
+
+The package shows practical research software habits: packaging, documentation, public release and designing code so that analysis steps can be repeated rather than rebuilt each time.
 
 ## Repository
 

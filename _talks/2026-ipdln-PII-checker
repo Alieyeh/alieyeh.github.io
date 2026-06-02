@@ -1,7 +1,7 @@
 ---
-title: "An NLP Tool For Automated Detection Of Participant Identifiers In Data"
+title: "An NLP Tool for Automated Detection of Participant Identifiers in Data"
 collection: talks
-type: "Conference Presentation"
+type: "Conference Presentation (Poster)"
 permalink: /talk/2026-ipdlnpii
 venue: "International Population Data Linkage Network (IPDLN) Conference"
 date: 2026-09-01
@@ -10,10 +10,12 @@ location: "To be confirmed"
 
 **Co-author**
 
-Poster presentation and paper (in prep) describing the design and implementation of a automated NLP driven tool for detection and labelling of Personally Identifiable Information (PII) within the Dementias Platform UK Data Portal.
+Poster describing an NLP-driven tool for detecting and labelling potential participant identifiers in data handled within the Dementias Platform UK Data Portal.
 
-- Presented tool outcomes at HDR UK Conference 2025
-- Accepted poster for IPDLN 2026
+The work supports:
 
+- More consistent review of potentially identifying information
+- Practical privacy checks for data entering secure research workflows
+- Governance-aware tooling for research operations teams
 
-
+The tool outcomes were presented at HDR UK Conference 2025, with poster presentation accepted for IPDLN 2026.
