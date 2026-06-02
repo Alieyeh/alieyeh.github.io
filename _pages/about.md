@@ -28,6 +28,9 @@ Python packages, command-line tools, dashboards, metadata discovery systems and 
 **Responsible data and AI governance**
 Contributions to safe AI guidance, disclosure control thinking and privacy-aware handling of sensitive biomedical data.
 
+**Knowledge translation**
+Published guidance for applied researchers, including a Real World Data Science article on selecting genomic datasets using a practical five-pillar framework.
+
 ## Selected Projects
 
 ### Secure Genomics Ingest and Provisioning Framework
@@ -38,6 +41,9 @@ Improved a PRS workflow for scalable execution, better documentation and more ac
 
 ### Omics Metadata Standard and Discovery Tool
 Developing a metadata framework and discovery approach to improve dataset findability, feasibility assessment and governance-aware use of omics data.
+
+### Five-Pillar Genomic Dataset Selection Guide
+Published a practical Real World Data Science guide helping researchers evaluate genomic datasets across discovery, governance, assay choice, phenotypic context and quality-control readiness.
 
 ### Multi-Omic Dementia Subtyping
 Exploratory research integrating genomic, clinical and derived data to support candidate dementia subtype discovery and biological interpretation.

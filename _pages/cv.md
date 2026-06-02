@@ -47,6 +47,7 @@ Dementias Platform UK (DPUK), Swansea University
 **Leadership and Knowledge Exchange**
 - Supervising intern work on omics metadata discovery infrastructure.
 - Delivered and contributed to training materials on HPC usage, workflow execution and secure data handling.
+- Published a Real World Data Science guide that gives applied researchers a five-pillar framework for selecting genomic datasets responsibly and efficiently.
 - Collaborated with researchers, governance specialists, clinicians and infrastructure engineers to translate research needs into practical workflows.
 
 ---
@@ -137,5 +138,5 @@ Service and Professional Contributions
 ======
 - Contributor to internal training materials on secure genomics workflows and HPC usage.
 - Contributor to policy-oriented work on AI risk and responsible data science in secure environments.
-- Author of educational material on selecting appropriate genomics datasets for research use cases.
+- Author of a published Real World Data Science guide on selecting appropriate genomic datasets for research use cases.
 - ONS Safe Researcher accredited.

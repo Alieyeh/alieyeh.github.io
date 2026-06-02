@@ -12,6 +12,8 @@ Large research platforms often hold rich omics datasets, but the surrounding doc
 
 This project develops a harmonised metadata approach for genomics and multi-omics datasets in a Trusted Research Environment.
 
+The thinking behind this work also connects to my published Real World Data Science article on genomic dataset selection, which sets out a practical five-pillar framework for evaluating dataset discovery, governance, assay choice, phenotypic context and quality-control readiness.
+
 ## My Contribution
 
 - Designed the initial metadata framework and discovery-tool concept.
