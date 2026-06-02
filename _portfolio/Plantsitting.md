@@ -1,35 +1,42 @@
 ---
-title: "PlantBuddy Full-Stack Mobile Application"
+title: "PlantBuddy Cross-Platform Plant Marketplace"
 collection: portfolio
 category: software
 permalink: /software/plantbuddy/
-excerpt: "Personal engineering project designing an Android application, REST API backend and PostgreSQL database for plant sitting, exchanges and sales."
+excerpt: "Cross-platform Expo and Supabase application for plant profiles, peer-to-peer listings, sitter applications, swaps and structured handoffs."
 ---
 
 ## Overview
 
-PlantBuddy is a personal full-stack engineering project exploring mobile application design, backend architecture and relational database modelling.
+PlantBuddy is a personal full-stack product and engineering project for a plant-native marketplace and care network.
 
-The application concept connects plant owners, plant sitters and plant stores through a single platform for plant care, swaps, donations and sales.
+The current build supports the core idea that plants are not just generic marketplace items. Each plant has its own profile, care context and lifecycle, then can be listed for sitting, gifting, sale or exchange through one shared platform.
 
-## System Design
+## Current Implementation
 
-- Android mobile client
-- REST API backend
-- PostgreSQL relational database
-- Layered backend structure separating API endpoints, service logic and database access
-- Role-based workflows for plant owners, plant sitters and store owners
+- Active cross-platform app in Expo and React Native, targeting web, Android and iOS
+- Supabase backend using Auth, PostgreSQL, PostgREST APIs and Row Level Security
+- Plant profile management with care fields, age/life-stage options and editable care autofill from common plant care profiles
+- Listing flows for sitting requests, gifts and sales, with browsing, search, filtering and sort logic
+- Sitter application review, swap proposal handling, handoff confirmation and review-oriented exchange flows
+- Shared design tokens, navigation structure and app-level configuration handling for missing Supabase environment variables
+- Node-based unit, integration and smoke tests covering form logic, listing helpers, browsing, exchange inbox composition and project wiring
 
 ## What It Demonstrates
 
-- REST API design
-- Relational database modelling
-- Backend authentication concepts
-- Mobile client architecture
-- Practical full-stack system design outside my main biomedical research work
+- Cross-platform mobile and web application architecture
+- Product thinking around trust, care context and peer-to-peer exchange
+- Direct-to-Supabase frontend design with database-enforced authorization
+- PostgreSQL schema modelling with enums, constraints, indexes, ownership rules and RLS policies
+- Clean separation of screens, services, domain helpers, utilities and tests
+- Pragmatic migration from an earlier native Android/REST concept to a simpler, more deployable Supabase architecture
+
+## Earlier Android Work
+
+The repository also keeps an older Java Android implementation and database diagrams as reference material. The active direction has moved to the Expo/Supabase app, while the Android folder still documents useful work on mobile architecture, Retrofit-style API integration, encrypted session storage, UML and ER modelling.
 
 ## Repository
 
-GitHub repository: [github.com/Alieyeh/plantbuddy](https://github.com/Alieyeh/plantbuddy)
+GitHub repository: [github.com/Alieyeh/PlantBuddy](https://github.com/Alieyeh/PlantBuddy)
 
-**Tags:** Java, Android, REST API, PostgreSQL, Maven, SQL, UML, ER modelling, mobile development
+**Tags:** React Native, Expo, Supabase, PostgreSQL, Row Level Security, JavaScript, mobile development, product design, software testing, Android, Java
