@@ -57,14 +57,15 @@ Dementias Platform UK (DPUK), Swansea University
 Previous Experience
 ======
 
-**Data Scientist - Human Genetics, GSK**
+**Human Genetics Data Science Placement, GSK**
 
 2023
 
-- Performed region-based association analyses using UK Biobank whole-genome sequencing data.
-- Developed Python-based annotation and processing workflows for rare non-coding genomic regions.
-- Integrated Python and REGENIE workflows into HPC-based statistical genetics analyses.
-- Supported QC, interpretation and communication of statistical genetics outputs in a regulated pharmaceutical research setting.
+- Developed a Python and pandas workflow to annotate chromosome-scale UK Biobank WGS variants against the Ensembl GRCh38 Regulatory Build.
+- Prepared regulatory annotations and rare-variant masks for two-step REGENIE region-based association testing across binary and quantitative traits on GSK HPC.
+- Analysed association outputs by regulatory element, allele-frequency threshold, phenotype and effect direction, producing summary tables, forest plots and Manhattan plots.
+- Used SQL to compare significant non-coding region signals with existing WES/GWAS evidence and linked regions to nearby protein-coding genes.
+- Delivered annotation catalogues, association results and visualisations, and prepared a technical report and final presentation for the GSK Human Genetics team.
 
 **Health Data Scientist - Clinical Machine Learning Research**
 
@@ -82,7 +83,7 @@ Education
 **MSc Health Data Science, Genomics**
 
 University of Exeter, 2022 - 2023
-- Thesis in collaboration with GSK: using human genetic data to inform drug discovery through annotation strategies and region-based association testing.
+- Industry-linked thesis with GSK Human Genetics: annotated UK Biobank WGS rare non-coding variants using the Ensembl GRCh38 Regulatory Build and ran REGENIE region-based association tests to explore gene-phenotype evidence for drug discovery.
 
 **BSc Computer Engineering**
 

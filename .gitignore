@@ -23,3 +23,7 @@ cvs/
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Private source documents used for portfolio updates
+gsk_Final_report_232259.pdf
+gsk_Performance_review_232259.pdf
