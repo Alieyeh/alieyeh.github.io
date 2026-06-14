@@ -35,7 +35,7 @@ redirect_from:
   </section>
   <section>
     <h3>Applied biomedical data science</h3>
-    <p>Multi-omics integration, exploratory machine learning, clinical prediction work, dataset discovery and practical guidance for responsible research.</p>
+    <p>Multi-omics integration, machine learning, model privacy testing, synthetic data, clinical prediction and practical guidance for responsible research.</p>
   </section>
 </div>
 
@@ -49,6 +49,9 @@ Improved PRS workflow execution through parallelisation, clearer documentation a
 
 ### Omics Metadata Standard and Discovery Tool
 Scoped a DPUK Omics Metadata Atlas and feasibility tool to help researchers search, compare and assess non-disclosive omics dataset metadata before formal access applications.
+
+### AI Privacy Risk Assessment and Safe Model Release
+Developed and attacked dementia classification models under different privacy controls, contributing technical evidence to DARE UK recommendations on synthetic data, model release and safe AI in sensitive health environments.
 
 ### Five-Pillar Genomic Dataset Selection Guide
 Published a Real World Data Science guide helping researchers evaluate genomic datasets across discovery, governance, assay choice, cohort context and analysis readiness.

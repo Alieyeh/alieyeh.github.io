@@ -29,6 +29,7 @@ Dementias Platform UK (DPUK), Swansea University
 - Design and maintain genomics ingest, QC, metadata harmonisation and provisioning workflows for WGS, array, methylation and multi-omics datasets.
 - Build validation scripts and operational checks for file structure, metadata completeness, privacy readiness and analysis readiness.
 - Develop metadata frameworks, tagging systems and discovery structures that make heterogeneous omics datasets easier to find, compare and use.
+- Extended an existing imaging-only provisioning system to support genomics, updating its MinIO-backed storage, dataset tagging and project-approval controls.
 - Support governed provisioning workflows that connect dataset discovery, quality checking, access approvals and secure downstream analysis.
 - Produce SOP-style documentation and researcher guidance to support traceability and reproducible use of platform workflows.
 
@@ -41,12 +42,14 @@ Dementias Platform UK (DPUK), Swansea University
 **Applied genomics and data science**
 - Work on statistical genetics and WGS analysis workflows across cohort-scale datasets.
 - Develop exploratory multi-omic approaches for dementia subtyping and patient stratification research.
-- Contribute to privacy-aware evaluation and governance thinking for AI models in sensitive health data settings.
+- Developed and compared dementia classifiers using Random Forest, SVM, XGBoost and neural-network approaches under different privacy controls, including AI-SDC safe wrappers and synthetic-data variants.
+- Ran membership inference, LiRA/likelihood, worst-case, attribute and structural privacy attacks, and prototyped a Concrete-ML homomorphic-encryption route.
+- Used the technical findings to contribute to DARE UK recommendations on safe AI development, model release and synthetic data in sensitive health environments.
 
 **Collaboration and knowledge exchange**
 - Collaborate with researchers, clinicians, epidemiologists, governance specialists and infrastructure engineers to translate research needs into practical workflows.
 - Supervise intern work on omics metadata discovery infrastructure.
-- Deliver and contribute to training materials on HPC usage, workflow execution, output checking and secure data handling.
+- Produced the HPC training component of the [DPUK Induction for Approved Users](https://dataciseopenlearning.org/courses/dementias-platform-uk-induction-approved-users/), supporting practical use of secure research computing and reproducible workflow execution.
 - Published a Real World Data Science guide giving researchers a practical framework for selecting genomic datasets responsibly and efficiently.
 
 ---
@@ -98,7 +101,7 @@ Technical Expertise
 - WGS, rare variant annotation, PRS, GWAS, region-based association testing, PLINK, bcftools, REGENIE, GATK and QCtool
 
 **Workflows and infrastructure**
-- SLURM, Nextflow-style workflow design, Snakemake, Docker, Singularity, n8n, MinIO and reproducible pipeline development
+- SLURM, Nextflow-style workflow design, Snakemake, Docker, Singularity, n8n, MinIO, ETL and reproducible pipeline development
 
 **Data systems and governance**
 - PostgreSQL, SQL Server, MongoDB, ER modelling, metadata schemas, dataset tagging, Trusted Research Environments and disclosure control
@@ -126,7 +129,7 @@ Conference Posters and Talks
 
 Service and Professional Contributions
 ======
-- Contributor to training materials on secure genomics workflows, HPC usage and output checking.
-- Contributor to policy-oriented work on AI risk and responsible data science in secure environments.
+- Training author for the HPC component of the [DPUK Induction for Approved Users](https://dataciseopenlearning.org/courses/dementias-platform-uk-induction-approved-users/).
+- Technical contributor and co-author on DARE UK work covering AI privacy attacks, safe model release, synthetic data and responsible AI development in secure environments.
 - Author of a published Real World Data Science guide on selecting appropriate genomic datasets for research use cases.
 - ONS Safe Researcher accredited.

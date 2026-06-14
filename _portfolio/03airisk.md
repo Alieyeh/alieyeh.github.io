@@ -1,7 +1,7 @@
 ---
-title: "Safe AI in Sensitive Health Data"
+title: "AI Privacy Risk Assessment and Safe Model Release"
 category: research
-excerpt: "Contribution to DARE UK work on privacy risk, model release, synthetic data and practical governance for AI in sensitive health data environments."
+excerpt: "Technical and policy contribution to DARE UK work evaluating privacy attacks, model safeguards and release decisions for AI trained on sensitive health data."
 collection: portfolio
 permalink: /research/safe-ai
 ---
@@ -10,24 +10,41 @@ permalink: /research/safe-ai
 
 ## Overview
 
-This work formed part of a DARE UK initiative on how AI models can be developed, evaluated and shared responsibly when they are trained on sensitive healthcare data.
+This work formed part of a DARE UK initiative on how AI models can be developed, tested and shared responsibly when they are trained on sensitive healthcare data.
 
-The focus was practical: identify privacy risks, understand how risk changes across data types, and recommend safer ways for Trusted Research Environments and research teams to support useful AI work.
+I contributed both technical experiments and policy-oriented recommendations. The practical question was not only whether a model performed well, but whether it could be released without creating an unacceptable risk of revealing information about the people represented in its training data.
 
-## My Contribution
+## Technical Contribution
 
-- Contributed to analysis of privacy attacks and model release failure modes.
-- Helped frame risk considerations for complex biomedical data types, including genomics and imaging.
-- Supported discussion of TRE-hosted access, secure querying and privacy-aware evaluation.
-- Contributed to recommendations around synthetic data, evaluation workflows and governance processes.
+- Developed and compared dementia classification models using Random Forest, Support Vector Machine, XGBoost and neural-network approaches.
+- Built baseline and safer model variants using AI-SDC safe-model tooling, including `SafeSVC`, alongside neural-network safety experiments.
+- Evaluated models trained with synthetic-data variants to examine the trade-off between predictive utility and disclosure risk.
+- Prototyped a Concrete-ML route for homomorphic-encryption-compatible model inference. This was exploratory work rather than a deployed encrypted service.
+- Used AI-SDC and the Adversarial Robustness Toolbox to test how model type, training data and safeguards affected privacy risk.
 
-## Why It Matters
+## Attack Evaluation
 
-The work is valuable because it recognises both sides of the problem: sensitive health data needs strong protection, but research teams also need workable routes to develop and evaluate models. The recommendations support more structured decisions about when outputs can be released and when secure access models are more appropriate.
+The assessment went beyond conventional model accuracy. I ran and compared:
+
+- Membership inference attacks, including black-box and LiRA-style likelihood testing
+- Worst-case and likelihood-based disclosure attacks
+- Attribute inference experiments
+- Structural disclosure-risk checks
+- Custom query and feature-permutation attack experiments
+- Selected adversarial robustness and reconstruction-oriented experiments
+
+The experiments compared predictive measures such as accuracy, precision, recall, F1 and ROC-AUC with attack outcomes and release-risk reports. This helped demonstrate why a high-performing health model may still be unsafe to release directly.
+
+## Policy and Governance Contribution
+
+The technical findings informed wider recommendations for AI development and model release in Trusted Research Environments. I contributed to discussions of synthetic data, model disclosure testing, safer wrappers, secure access, controlled querying and the circumstances in which a model should remain inside a secure environment.
+
+This work recognises both sides of the problem: sensitive health data needs strong protection, while research teams need practical routes to develop and evaluate useful models.
 
 ## Outputs
 
 - DARE UK report: *Perspectives and Recommendations on the Development of Safe AI in Sensitive Healthcare Data*.
 - Related workshop output: *Privacy in Synthetic Data Workshop Findings*.
+- Technical repository: [github.com/Alieyeh/AI-Privacy-Risk-Assessment](https://github.com/Alieyeh/AI-Privacy-Risk-Assessment)
 
-**Tags:** AI governance, privacy risk, disclosure control, synthetic data, Trusted Research Environments, model release, health data
+**Tags:** Python, scikit-learn, TensorFlow, XGBoost, AI-SDC, Adversarial Robustness Toolbox, synthetic data, homomorphic encryption, membership inference, privacy attacks, AI governance, Trusted Research Environments

@@ -41,7 +41,7 @@ The planned scope includes:
 
 ## Technical Design
 
-The planned stack is deliberately practical for a short research software project:
+The following is the planned implementation stack for the supervised intern project. I designed the project scope, architecture, delivery gates and acceptance criteria; these components are intended to be built and evaluated by the intern during the 12-week placement rather than representing software I have already implemented:
 
 - Python package and CLI for ingestion, validation and reproducible catalogue builds
 - Pydantic models and JSON schema for executable metadata definitions
@@ -79,6 +79,6 @@ The API documentation is treated as part of the product, so future developers an
 
 ## Status
 
-Scoped and in development as a supervised intern/research software project. The project plan is designed to produce a credible prototype, evaluation evidence and paper-ready materials without exposing participant-level data or overstating what can be delivered in a 12-week internship.
+Project plan completed; implementation pending as a supervised intern/research software project. The plan is designed to produce a credible prototype, evaluation evidence and paper-ready materials without exposing participant-level data or overstating what can be delivered in a 12-week internship.
 
 **Tags:** metadata, Python, PostgreSQL, FastAPI, Pydantic, FAIR data, dataset discovery, omics, governance, provenance, Trusted Research Environments, research software

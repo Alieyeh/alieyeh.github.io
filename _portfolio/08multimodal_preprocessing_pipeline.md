@@ -8,7 +8,7 @@ excerpt: "Reproducible Python preprocessing pipeline for public HAR, EEG and ECG
 
 ## Overview
 
-This public Python pipeline prepares multimodal physiological and activity datasets for downstream machine learning experiments. It covers public HAR, EEG and ECG datasets such as PAMAP2, WISDM, EEGMMIDB and PTB-XL.
+This public ETL-style Python pipeline downloads, transforms, harmonises and validates multimodal physiological and activity datasets for downstream machine learning experiments. It covers public HAR, EEG and ECG datasets such as PAMAP2, WISDM, EEGMMIDB and PTB-XL.
 
 The project is designed around clear command-line stages for setup, preprocessing, validation and reporting, with Python implementations behind lightweight shell and PowerShell entrypoints.
 
@@ -33,8 +33,10 @@ The project is designed around clear command-line stages for setup, preprocessin
 
 The project demonstrates research software engineering beyond one-off notebooks: repeatable processing, testable outputs, clear interfaces and enough validation for other users to understand what the pipeline produced.
 
+This is an independent open-source project. There are plans to make the pipeline available to researchers through DPUK, but it is not currently presented as a DPUK-developed or deployed system.
+
 ## Repository
 
 GitHub repository: [github.com/Alieyeh/Multimodal-Preprocessing-Pipeline](https://github.com/Alieyeh/Multimodal-Preprocessing-Pipeline)
 
-**Tags:** Python, reproducible pipelines, multimodal time-series, EEG, ECG, HAR, CLI tooling, validation, automated testing
+**Tags:** Python, ETL, reproducible pipelines, multimodal time-series, EEG, ECG, HAR, CLI tooling, validation, automated testing
