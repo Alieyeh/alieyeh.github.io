@@ -2,15 +2,14 @@
 title: "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment"
 collection: talks
 type: "Conference Presentation (Talk)"
-permalink: /talk/2026-ipdln-genomics
+permalink: /talk/2026-ipdln-genomics/
 venue: "International Population Data Linkage Network (IPDLN) Conference"
 date: 2026-09-01
 location: "To be confirmed"
-role: "First author"
+author_role: "First author"
 slidesurl: /files/presentations/174_IPDLN_presentation.pdf
+excerpt: "First-author talk on scalable genomics ingest, quality control and secure provisioning for analysis-ready datasets in a trusted research environment."
 ---
-
-**First author**
 
 Talk describing a genomics data facilitation framework within the Dementias Platform UK Data Portal.
 
@@ -23,5 +22,3 @@ The framework covers:
 - Integration with HPC-based analytical workflows
 
 The work focuses on making national-scale dementia genomics data more findable, reproducible, governable and analysis-ready.
-
-Slides: [IPDLN genomics ingest pipeline presentation](/files/presentations/174_IPDLN_presentation.pdf)

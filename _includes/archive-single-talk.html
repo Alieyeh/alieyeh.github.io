@@ -11,6 +11,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+{% assign presentation_role = post.author_role | default: post.role %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -31,7 +32,7 @@
     </h2>
 
     <p class="archive__item-meta">
-      {% if post.role %}<span>{{ post.role }}</span>{% endif %}
+      {% if presentation_role %}<span>{{ presentation_role }}</span>{% endif %}
       {% if post.type %}<span>{{ post.type }}</span>{% endif %}
       {% if post.venue %}<span>{{ post.venue }}</span>{% endif %}
       {% if post.location %}<span>{{ post.location }}</span>{% endif %}

@@ -2,17 +2,14 @@
 title: "Precision Subtyping of Dementia Through Multi-Omic Integration"
 collection: talks
 type: "Conference Presentation (Poster)"
-permalink: /talk/2025-aruk-manchester
+permalink: /talk/2025-aruk-manchester/
 venue: "Alzheimer's Research UK Conference, Manchester"
 date: 2026-11-01
 location: "Manchester, UK"
-role: "First author"
+author_role: "First author"
 posterurl: /files/posters/ARUKSubtypingPoster.pdf
+excerpt: "First-author poster presenting an exploratory multi-omic framework for dementia subtype discovery using genomic, clinical and derived cohort data."
 ---
-
-Poster: [Download](/files/posters/ARUKSubtypingPoster.pdf)
-
-**First author**
 
 Poster outlining an exploratory multi-omic framework for dementia subtype discovery using genomic, clinical and derived cohort data.
 
