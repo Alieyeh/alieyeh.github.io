@@ -1,10 +1,9 @@
 # Leaflet cluster map of talk locations
 #
-# Run this from the _talks/ directory, which contains .md files of all your
-# talks. This scrapes the location YAML field from each .md file, geolocates it
-# with geopy/Nominatim, and uses the getorg library to output data, HTML, and
-# Javascript for a standalone cluster map. This is functionally the same as the
-# #talkmap Jupyter notebook.
+# Run this from the repository root. The _talks/ directory contains .md files of
+# all your talks. This scrapes the location YAML field from each .md file,
+# geolocates it with geopy/Nominatim, and uses the getorg library to output
+# data, HTML, and Javascript for a standalone cluster map.
 import frontmatter
 import glob
 import getorg
@@ -13,6 +12,14 @@ from geopy.exc import GeocoderTimedOut
 
 # Set the default timeout, in seconds
 TIMEOUT = 5
+PLACEHOLDER_LOCATIONS = {
+    "to be confirmed",
+    "tbc",
+    "tbd",
+    "unknown",
+    "online",
+    "virtual",
+}
 
 # Collect the Markdown files
 g = glob.glob("_talks/*.md")
@@ -35,15 +42,22 @@ for file in g:
         continue
 
     # Prepare the description
-    title = data['title'].strip()
-    venue = data['venue'].strip()
-    location = data['location'].strip()
+    title = str(data.get('title', '')).strip()
+    venue = str(data.get('venue', '')).strip()
+    location = str(data.get('location', '')).strip()
+    if not location or location.casefold() in PLACEHOLDER_LOCATIONS:
+        print(f"Skipping placeholder location for {title}: {location}")
+        continue
     description = f"{title}<br />{venue}; {location}"
 
     # Geocode the location and report the status
     try:
-        location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)
-        print(description, location_dict[description])
+        geocoded_location = geocoder.geocode(location, timeout=TIMEOUT)
+        if geocoded_location is None:
+            print(f"Skipping ungeocoded location for {title}: {location}")
+            continue
+        location_dict[description] = geocoded_location
+        print(description, geocoded_location)
     except ValueError as ex:
         print(f"Error: geocode failed on input {location} with message {ex}")
     except GeocoderTimedOut as ex:

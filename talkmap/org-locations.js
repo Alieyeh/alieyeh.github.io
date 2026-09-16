@@ -5,9 +5,14 @@ var addressPoints = [
     -2.2324547
   ],
   [
-    "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment<br />International Population Data Linkage Network (IPDLN) Conference; To be confirmed",
-    15.1267151,
-    105.6364068
+    "An NLP Tool for Automated Detection of Participant Identifiers in Data<br />International Population Data Linkage Network (IPDLN) Conference; Rotterdam, Netherlands",
+    51.9244201,
+    4.4777325
+  ],
+  [
+    "A Scalable Framework for Genomics Data Ingest, Quality Control and Secure Provisioning in a Trusted Research Environment<br />International Population Data Linkage Network (IPDLN) Conference; Rotterdam, Netherlands",
+    51.9244201,
+    4.4777325
   ],
   [
     "A Unified Pipeline for Calculating Polygenic Risk Scores for Dementia and Psychiatric Disorders in DPUK<br />Alzheimer's Research UK Scientific Networking; United Kingdom",
