@@ -6,9 +6,11 @@ permalink: /talk/2025-dpuk-translation
 venue: "Dementia Platform UK Translation Conference"
 date: 2025-03-01
 location: "United Kingdom"
+role: "Co-author"
+posterurl: /files/posters/ammar_genomics_poster.pdf
 ---
 
-*PDF: [Open](/files/posters/ammar_genomics_poster.pdf)*
+Poster: [Download](/files/posters/ammar_genomics_poster.pdf)
 
 **Co-author**
 

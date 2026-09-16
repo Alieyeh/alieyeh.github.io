@@ -6,6 +6,7 @@ permalink: /talk/2026-ipdln-genomics
 venue: "International Population Data Linkage Network (IPDLN) Conference"
 date: 2026-09-01
 location: "To be confirmed"
+role: "First author"
 slidesurl: /files/presentations/174_IPDLN_presentation.pdf
 ---
 

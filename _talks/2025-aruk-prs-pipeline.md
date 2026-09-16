@@ -6,9 +6,11 @@ permalink: /talk/2025-aruk-prs
 venue: "Alzheimer's Research UK Scientific Networking"
 date: 2025-11-18
 location: "United Kingdom"
+role: "First author"
+posterurl: /files/posters/PosterPRSPipelineDPUK.pdf
 ---
 
-*PDF: [Open](/files/posters/PosterPRSPipelineDPUK.pdf)*
+Poster: [Download](/files/posters/PosterPRSPipelineDPUK.pdf)
 
 **First author**
 

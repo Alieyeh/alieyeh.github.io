@@ -6,6 +6,7 @@ permalink: /talk/2026-ipdlnpii
 venue: "International Population Data Linkage Network (IPDLN) Conference"
 date: 2026-09-01
 location: "To be confirmed"
+role: "Co-author"
 ---
 
 **Co-author**

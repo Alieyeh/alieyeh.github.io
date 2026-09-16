@@ -6,9 +6,11 @@ permalink: /talk/2025-aruk-manchester
 venue: "Alzheimer's Research UK Conference, Manchester"
 date: 2026-11-01
 location: "Manchester, UK"
+role: "First author"
+posterurl: /files/posters/ARUKSubtypingPoster.pdf
 ---
 
-*PDF: [Open](/files/posters/ARUKSubtypingPoster.pdf)*
+Poster: [Download](/files/posters/ARUKSubtypingPoster.pdf)
 
 **First author**
 
