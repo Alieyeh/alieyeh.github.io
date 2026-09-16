@@ -4,6 +4,7 @@ collection: portfolio
 category: infrastructure
 permalink: /infrastructure/omics-metadata-discovery
 excerpt: "A scoped research software and metadata infrastructure project for non-disclosive omics dataset discovery, feasibility assessment and governance-aware catalogue development."
+slidesurl: /files/presentations/Amarachi_Njoku_Showcase_Presentation.pptx
 ---
 
 ## Overview
@@ -53,6 +54,21 @@ The following is the planned implementation stack for the supervised intern proj
 
 The metadata profile is aligned where practical with GA4GH ExpMeta, Bioschemas Dataset, RO-Crate and ELIXIR metadata guidance, while staying realistic for DPUK governance and available source material.
 
+## Phase 1 Implementation
+
+Phase 1 was delivered as an intern project by Amarachi Njoku under my project leadership. The showcase presentation documents a metadata standardisation pipeline that turns fragmented omics descriptions into validated, Gen3-ready metadata.
+
+The Phase 1 work:
+
+- Catalogued the available picture across five omics data types.
+- Fully standardised three data types end to end as a proof of method.
+- Used a common metadata spine with modality-specific extensions.
+- Applied Pydantic validation, controlled vocabularies and explicit handling of unknown values.
+- Carried provenance, confidence and transformation notes with the metadata rather than hiding uncertainty.
+- Reported completeness for the pilot outputs, including 96.6% for genotyping, 100% for methylation and 82.1% for GWAS, with essential fields complete across the pilot.
+
+Phase 1 showcase: [Building an Omics Data Discovery Pipeline](/files/presentations/Amarachi_Njoku_Showcase_Presentation.pptx)
+
 ## Feasibility Workflow
 
 The tool is designed to help a researcher answer the questions that usually come before an access request:
@@ -79,6 +95,6 @@ The API documentation is treated as part of the product, so future developers an
 
 ## Status
 
-Project plan completed; implementation pending as a supervised intern/research software project. The plan is designed to produce a credible prototype, evaluation evidence and paper-ready materials without exposing participant-level data or overstating what can be delivered in a 12-week internship.
+Project plan completed and Phase 1 proof of method delivered through a supervised intern project. The current next step is to connect automated storage discovery to the standardisation workflow, load standardised metadata into the shared discovery system and extend the method across remaining data types.
 
 **Tags:** metadata, Python, PostgreSQL, FastAPI, Pydantic, FAIR data, dataset discovery, omics, governance, provenance, Trusted Research Environments, research software

@@ -4,6 +4,7 @@ category: infrastructure
 excerpt: "End-to-end framework for onboarding, validating, organising and provisioning cohort-scale genomics data inside a Trusted Research Environment."
 permalink: /infrastructure/ingest-and-provisioning
 collection: portfolio
+slidesurl: /files/presentations/174_IPDLN_presentation.pdf
 ---
 
 <br/><img src="/images/datacheckgenome.jpg" alt="Genomics data checking workflow">
@@ -33,5 +34,7 @@ Large genomics datasets are only useful when researchers can understand what the
 ## Impact
 
 The framework makes high-throughput genomics data more discoverable, reproducible and analysis-ready. It reduces manual handling, improves operational consistency and gives researchers a clearer route from dataset discovery to approved analytical use.
+
+Related presentation: [IPDLN genomics ingest pipeline talk](/files/presentations/174_IPDLN_presentation.pdf)
 
 **Tags:** Python, Bash, Linux, MinIO, ETL, PLINK, bcftools, QCtool, metadata, Trusted Research Environments, data governance
